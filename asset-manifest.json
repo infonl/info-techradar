@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.61c76240.css",
-    "main.js": "/static/js/main.1de94150.js",
-    "static/media/overview.svg": "/static/media/overview.2e91b190e821b00544b6.svg",
-    "static/media/question.svg": "/static/media/question.f49af21b0654459dca13.svg",
-    "static/media/search.svg": "/static/media/search.679b98f82ae5196a396b.svg",
-    "static/media/pie.svg": "/static/media/pie.7ef18b270cc2509e9039.svg",
-    "static/media/back.svg": "/static/media/back.6d132c7e444cbbde9648.svg",
-    "static/media/close.svg": "/static/media/close.0a8d1a237ec4bf5218c6.svg",
-    "index.html": "/index.html",
-    "static/media/blip_new.svg": "/static/media/blip_new.a61075d6f6957f19d98c.svg",
-    "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
-    "static/media/blip_changed.svg": "/static/media/blip_changed.08c84aef1cf47bb9bb1c.svg",
-    "static/media/blip_default.svg": "/static/media/blip_default.5e46a91d07200ba1acf3.svg",
-    "main.61c76240.css.map": "/static/css/main.61c76240.css.map",
-    "main.1de94150.js.map": "/static/js/main.1de94150.js.map"
+    "main.css": "/info-techradar/static/css/main.c44f8bfb.css",
+    "main.js": "/info-techradar/static/js/main.052674d6.js",
+    "static/media/overview.svg": "/info-techradar/static/media/overview.2e91b190e821b00544b6.svg",
+    "static/media/question.svg": "/info-techradar/static/media/question.f49af21b0654459dca13.svg",
+    "static/media/search.svg": "/info-techradar/static/media/search.679b98f82ae5196a396b.svg",
+    "static/media/pie.svg": "/info-techradar/static/media/pie.7ef18b270cc2509e9039.svg",
+    "index.html": "/info-techradar/index.html",
+    "static/media/back.svg": "/info-techradar/static/media/back.6d132c7e444cbbde9648.svg",
+    "static/media/close.svg": "/info-techradar/static/media/close.0a8d1a237ec4bf5218c6.svg",
+    "static/media/blip_new.svg": "/info-techradar/static/media/blip_new.a61075d6f6957f19d98c.svg",
+    "static/media/index.cjs": "/info-techradar/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "static/media/blip_changed.svg": "/info-techradar/static/media/blip_changed.08c84aef1cf47bb9bb1c.svg",
+    "static/media/blip_default.svg": "/info-techradar/static/media/blip_default.5e46a91d07200ba1acf3.svg",
+    "main.c44f8bfb.css.map": "/info-techradar/static/css/main.c44f8bfb.css.map",
+    "main.052674d6.js.map": "/info-techradar/static/js/main.052674d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.61c76240.css",
-    "static/js/main.1de94150.js"
+    "static/css/main.c44f8bfb.css",
+    "static/js/main.052674d6.js"
   ]
 }
