@@ -11,3 +11,8 @@
     src: url("fonts/helvetica-neue-thin.ttf");
     font-weight: 300;
 }
+
+.footnote {
+    font-size: 12px;
+    color: var(--color-gray-normal);
+}
