@@ -1,6 +1,11 @@
 {
-  "footerFootnote": "We are <a href='https://info.nl'>INFO</a>, your digital partner who helps translate your business challenges into digital products with impact, since 1994.",
+  "footerFootnote": "We are INFO, your digital partner who helps translate your business challenges into digital products with impact, since 1994.",
   "socialLinks": [
+    { "href": "https://twitter.com/infonl", "iconName": "twitter" },
+    { "href": "https://www.facebook.com/infonl", "iconName": "facebook" },
+    { "href": "https://www.linkedin.com/company/info-nl", "iconName": "linkedIn" },
+    { "href": "https://www.instagram.com/infonl", "iconName": "instagram" },
+    { "href": "https://www.youtube.com/channel/UCZS0hQt54T3sUcyUZhkcxag", "iconName": "youtube" },
     { "href": "https://github.com/infonl", "iconName": "github" }
   ],
   "pageHelp": {
@@ -76,8 +81,8 @@
     "sourcecodeLink": {
       "href": "https://github.com/infonl/info-techradar",
       "name": "INFO Tech Radar on GitHub",
-      "description": "Contributions and source code of the INFO Tech Radar can be found here:"
+      "description": "The source code of the INFO Tech Radar can be found here:"
     }
   },
-  "legalInformationLink": "https://info.nl/wp-content/uploads/InfoNl-TERMS-AND-CONDITIONS.pdf"
+  "legalInformationLink": "https://info.nl"
 }
