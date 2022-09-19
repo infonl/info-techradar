@@ -2,7 +2,7 @@
 title: "AWS CI CD Tools"
 ring: hold
 quadrant: tools
-featured: true
+featured: false
 ---
 
 The AWS stack for CI CD solutions like CodeCommit, CodeBuild and CodeDeploy offers a well integrated

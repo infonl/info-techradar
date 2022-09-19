@@ -2,7 +2,7 @@
 title: "Azure DevOps"
 ring: hold
 quadrant: tools
-featured: true
+featured: false
 ---
 
 Having used Azure DevOps for some client projects we have come to the conclusion that it is not the
