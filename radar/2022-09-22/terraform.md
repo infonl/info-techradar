@@ -2,7 +2,7 @@
 title: "Terraform"
 ring: assess
 quadrant: tools
-featured: false
+featured: true
 ---
 
 <a href="https://www.terraform.io/">Terraform</a> is an open-source Infrastructure as Code (IaC) tool which can be used to provision 
