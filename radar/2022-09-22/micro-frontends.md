@@ -1,5 +1,5 @@
 ---
-title: "Data Science and Machine Learning"
+title: "Micro Frontends"
 ring: hold
 quadrant: techniques
 featured: false
