@@ -6,17 +6,7 @@ The INFO Technology Radar static site generator based on the [AOE tech radar imp
 
 ### Host the application under a sub path
 To host the application under a sub path, set the environment variable `PUBLIC_URL`, e.g. "/techradar".
-The default is `/build`.
-
-> For local development I recommend using `/build` and use this for the following steps. 
-
-### Build the radar
-```
-npm i
-npm run start
-```
-
-Then open here: http://localhost:8080/build
+The default is `/build`. For local development the recommendation is just to use `/build`.
 
 ### Build the radar with static files
 ```
