@@ -1,7 +1,7 @@
 ---
 title: "Terraform"
 ring: assess
-quadrant: techniques
+quadrant: tools
 featured: false
 ---
 
