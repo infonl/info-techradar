@@ -2,7 +2,7 @@
 title: "Docker Developer Environments"
 ring: hold
 quadrant: tools
-featured: true
+featured: false
 ---
 
-We now prefer GitHub Code Spaces over Docker Developer Environments.
+We now prefer <a href="github-code-spaces.html">GitHub Code Spaces</a> over Docker Developer Environments.
