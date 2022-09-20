@@ -2,7 +2,7 @@
 title: "Bitbucket Cloud & Pipelines"
 ring: hold
 quadrant: tools
-featured: true
+featured: false
 ---
 
 Having used Bitbucket Cloud & Pipelines for a number of years both for internal and for client
