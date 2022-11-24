@@ -9,4 +9,4 @@ featured: true
 
 Next.js allows us to build React-based web applications efficiently and offers solutions for both server-side rendering as well as statically generated pages.
 
-
+We also considered <a href="https://redwoodjs.com/">RedwoodJS</a> but we believe Next.js is a better match for our needs.
