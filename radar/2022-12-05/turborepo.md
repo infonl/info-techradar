@@ -9,3 +9,5 @@ We are trialling <a href="https://turbo.build/repo">Turborepo</a> to see if it c
 
 Turborepo is made by <a href="vercel.html">Vercel</a>, who are also the creators of <a href="nextjs.html">Next.js</a>, and the out-of-the-box integration provided between these frameworks and services can be decisive factor, while still taking into account other considerations such as a strong dependency on Vercel.
 
+We also considered the <a href="https://nx.dev/">Nx</a> monorepo framework but after having trialed it we feel that Turborepo is a better fit for our needs.
+
