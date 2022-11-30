@@ -1,7 +1,7 @@
 ---
 title: "CockroachDB"
 ring: trial
-quadrant: platform
+quadrant: platforms
 featured: true
 ---
 
