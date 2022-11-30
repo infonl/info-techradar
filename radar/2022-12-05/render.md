@@ -1,5 +1,5 @@
 ---
-title: "Digital Ocean"
+title: "Render"
 ring: assess
 quadrant: platforms
 featured: true
