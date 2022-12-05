@@ -5,7 +5,7 @@ quadrant: tools
 featured: true
 ---
 
-We prefer GitHub as source code management and CI solution. 
+We prefer GitHub as source code management and CI/CD solution. We prefer to use GitHub Actions for (CI/CD) software workflow automation.
 
 Background:
 
