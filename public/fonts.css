@@ -12,3 +12,7 @@
     font-weight: 300;
 }
 
+/* Overwrite root colours with INFO colors */
+html:root {
+    --color-gray-dark: #2f2c2d;
+}

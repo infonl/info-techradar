@@ -15,26 +15,26 @@
     "homepageContent": "both",
     "quadrantsMap": {
       "languages-and-frameworks": {
-        "colour": "#84BFA4",
-        "txtColour": "#444444",
+        "colour": "#99CC33",
+        "txtColour": "#333333",
         "position": 1,
         "description": "Programming languages and software frameworks."
       },
       "techniques": {
-        "colour": "#248EA6",
-        "txtColour": "white",
+        "colour": "#FFCC33",
+        "txtColour": "#333333",
         "position": 2,
         "description": "Architectural techniques, elements of our software development process, best practices, and such."
       },
       "platforms": {
-        "colour": "#F25244",
-        "txtColour": "#444444",
+        "colour": "#FF6633",
+        "txtColour": "black",
         "position": 3,
         "description": "Things that we build software on top of such as cloud-native platforms."
       },
       "tools": {
-        "colour": "#F2A25C",
-        "txtColour": "white",
+        "colour": "#FF0066",
+        "txtColour": "black",
         "position": 4,
         "description": "Software products such as content management systems as well as software development tools."
       }
