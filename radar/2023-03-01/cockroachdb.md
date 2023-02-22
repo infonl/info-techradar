@@ -2,7 +2,7 @@
 title: "CockroachDB"
 ring: hold
 quadrant: platforms
-featured: false
+featured: true
 ---
 
 In the space of <a href="dbaas.html">DBaaS</a> services, we have trialed <a href="https://www.cockroachlabs.com/">CockroachDB</a> to see if it could be our preferred DBaaS solution, and if so, under what circumstances it would be our preferred choice. 
