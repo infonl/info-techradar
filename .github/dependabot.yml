@@ -4,3 +4,6 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    allow:
+        # do not allow updates of indirect (transient) dependencies
+      - dependency-type: "direct"
