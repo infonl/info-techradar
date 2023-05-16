@@ -3,7 +3,13 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "monthly"
+    reviewers:
+      - "infonl/info-tech-leads-and-tech-discipline-leads"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
     reviewers:
       - "infonl/info-tech-leads-and-tech-discipline-leads"
 
