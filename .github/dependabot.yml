@@ -4,6 +4,6 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-    allow:
-        # do not allow updates of indirect (transient) dependencies
-      - dependency-type: "direct"
+    reviewers:
+      - "infonl/info-tech-leads-and-tech-discipline-leads"
+
