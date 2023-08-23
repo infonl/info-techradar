@@ -156,6 +156,11 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>/info-techradar/techniques/dora.html</loc>
+    <lastmod>2023-08-23</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>/info-techradar/techniques/event-driven-architecture.html</loc>
     <lastmod>2023-08-23</lastmod>
     <changefreq>weekly</changefreq>
