@@ -2,467 +2,467 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>/info-techradar/index.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/ai-as-a-service.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/algolia.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/amazon-cognito.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/amazon-s3.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/aws.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/aws-ci-cd-tools.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/aws-iam.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/axiom.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/azure.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/azure-devops.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/backstage.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/bitbucket-cloud-and-pipelines.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/c4-model.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/chai.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/chakra-ui.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/clerk.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/cloud-hosting-cost-optimisation.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/cloud-native-platforms.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/cockroachdb.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/content-as-a-service.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/contentful.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/cypress.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/data-science-and-machine-learning.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/data-streaming.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/database-as-a-service.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/dependency-drift-fitness-function.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/digitalocean.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/docker.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/docker-developer-environments.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/domain-driven-design.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/dora.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/event-driven-architecture.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/event-sourcing.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/evolutionary-architecture.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/express.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/figma.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/git-rebase-and-merge-merge-strategy.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/github.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/github-code-spaces.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/github-copilot.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/github-packages.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/go.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/google-analytics.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/graphql.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/idea-intellij.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/infrastructure-as-code.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/jamstack.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/java.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/javascript.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/jest.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/k6.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/keycloak.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/kotlin.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/kubernetes.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/low-code-no-code-development.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/magnolia.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/micro-frontends.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/microservices.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/mocha.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/monorepo.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/nestjs.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/nextjs.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/nodejs.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/platform-as-a-service.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/postgresql.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/prisma.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/progressive-web-applications.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/pulumi.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/python.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/react.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/react-native.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/redis.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/render.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/renovate.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/run-cost-as-architecture-fitness-function.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/sanity.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/sentry.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/techniques/serverless.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/serverless-framework.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/snyk.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/strapi.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/superblocks.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/support-for-ie11.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/tailwind-css.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/tanstack-query.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/terraform.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/trpc.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/turborepo.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/languages-and-frameworks/typescript.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/platforms/vercel.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/visual-studio-code.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>/info-techradar/tools/vitest.html</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
