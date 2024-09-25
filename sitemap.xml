@@ -111,7 +111,7 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>/info-techradar/platforms/contentful.html</loc>
+    <loc>/info-techradar/tools/contentful.html</loc>
     <lastmod>2024-09-25</lastmod>
     <changefreq>weekly</changefreq>
   </url>
@@ -391,7 +391,7 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>/info-techradar/platforms/sanity.html</loc>
+    <loc>/info-techradar/tools/sanity.html</loc>
     <lastmod>2024-09-25</lastmod>
     <changefreq>weekly</changefreq>
   </url>
@@ -412,6 +412,11 @@
   </url>
   <url>
     <loc>/info-techradar/tools/snyk.html</loc>
+    <lastmod>2024-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>/info-techradar/tools/storyblok.html</loc>
     <lastmod>2024-09-25</lastmod>
     <changefreq>weekly</changefreq>
   </url>
