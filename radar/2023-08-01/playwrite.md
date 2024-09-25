@@ -1,6 +1,6 @@
 ---
 title: "Playwright"
-ring: adopt
+ring: trial
 quadrant: tools
 featured: true
 ---
