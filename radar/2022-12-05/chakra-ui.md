@@ -2,7 +2,7 @@
 title: "Chakra UI"
 ring: adopt
 quadrant: languages-and-frameworks
-featured: true
+featured: false
 ---
 
 We prefer to use <a href="https://chakra-ui.com/">Chakra UI</a> to build <a href="react.html">React</a>-based component libraries in our projects, depening on the requirements of the project. For most project we do prefer <a href="tailwind-css.html">Tailwind CSS</a> in this space.
