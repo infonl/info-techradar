@@ -1,7 +1,7 @@
 ---
 title: "DORA Metrics"
 ring: adopt
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: true
 ---
 

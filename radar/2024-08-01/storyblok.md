@@ -10,7 +10,7 @@ Storyblok's unique blend of visual editing and component-based content managemen
 ### Why Storyblok?
 - **Real-Time Visual Editor:** Provides a unique visual editing experience, allowing immediate feedback and adjustments to content.
 - **Component-Based Content Management:** Supports reusable content structures, reducing redundancy and enhancing flexibility.
-- **Robust APIs:** Seamlessly deliver content across multiple platforms, supporting headless setups for modern web applications.
+- **Robust APIs:** Seamlessly deliver content across multiple platforms-and-operations, supporting headless setups for modern web applications.
 - **Collaboration Features:** Includes workflows, version control, and multilingual support for managing global content.
 
 ### Current Focus at INFO

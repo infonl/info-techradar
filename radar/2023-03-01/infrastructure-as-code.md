@@ -1,7 +1,7 @@
 ---
 title: "Infrastructure as Code"
 ring: adopt
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: false
 ---
 

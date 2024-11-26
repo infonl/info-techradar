@@ -1,7 +1,7 @@
 ---
 title: "Database as a Service (DBaaS)"
 ring: adopt
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: true
 ---
 

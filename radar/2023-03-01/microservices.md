@@ -1,7 +1,7 @@
 ---
 title: "Microservices"
 ring: adopt
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: false
 ---
 

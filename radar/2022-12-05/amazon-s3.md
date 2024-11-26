@@ -1,7 +1,7 @@
 ---
 title: "Amazon S3"
 ring: adopt
-quadrant: platforms
+quadrant: platforms-and-operations
 featured: true
 ---
 

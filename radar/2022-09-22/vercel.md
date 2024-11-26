@@ -1,7 +1,7 @@
 ---
 title: "Vercel"
 ring: trial
-quadrant: platforms
+quadrant: platforms-and-operations
 featured: true
 ---
 

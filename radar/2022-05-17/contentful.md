@@ -1,7 +1,7 @@
 ---
 title: "Contentful"
 ring: hold
-quadrant: platforms
+quadrant: platforms-and-operations
 featured: false
 ---
 

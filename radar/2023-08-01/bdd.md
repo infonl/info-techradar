@@ -1,7 +1,7 @@
 ---
 title: "BDD with Gherkin, Cucumber"
 ring: adopt
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: true
 ---
 

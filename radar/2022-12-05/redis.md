@@ -1,7 +1,7 @@
 ---
 title: "Redis"
 ring: adopt
-quadrant: platforms
+quadrant: platforms-and-operations
 featured: true
 ---
 

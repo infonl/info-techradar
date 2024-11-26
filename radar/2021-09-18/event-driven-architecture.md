@@ -1,7 +1,7 @@
 ---
 title: "Event-driven Architecture"
 ring: adopt
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: true
 ---
 

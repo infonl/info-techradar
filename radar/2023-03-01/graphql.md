@@ -12,5 +12,5 @@ When tRPC is not a good match we generally prefer GraphQL over REST because it i
 depending on the context (e.g. external APIs may still require REST for API clients' needs).
 
 Beware
-of [GraphQL misuse](https://www.thoughtworks.com/radar/techniques/graphql-for-server-side-resource-aggregation)
+of [GraphQL misuse](https://www.thoughtworks.com/radar/methods-and-patterns/graphql-for-server-side-resource-aggregation)
 however. A mix of GraphQL and REST is also a viable solution.

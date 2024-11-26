@@ -1,7 +1,7 @@
 ---
 title: "Run cost as architecture fitness function"
 ring: hold
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: false
 ---
 
