@@ -7,7 +7,7 @@ featured: true
 
 Using a PaaS platform for specific projects (instead of using more low-level cloud-native services from AWS or Azure)
 can have benefits in efficiency, time-to-market and costs. We want to investigate the use case of
-such platforms-and-operations in our context and if we agree on it define one or more preferred PaaS platforms-and-operations 
+such platforms in our context and if we agree on it define one or more preferred PaaS platforms 
 as well as define guidelines on when to use them. 
                                                              
 We are currently trialing the <a href="vercel.html">Vercel</a> PaaS platform in this context. 
