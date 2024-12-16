@@ -1,5 +1,5 @@
 ---
-title: "Cloud-native platforms-and-operations"
+title: "Cloud-native platforms"
 ring: adopt
 quadrant: platforms-and-operations
 featured: true
