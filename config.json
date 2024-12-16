@@ -103,22 +103,12 @@
     "blipSize": 12
   },
   "social": [
-    {
-      "href": "https://twitter.com/aoepeople",
-      "icon": "x"
-    },
-    {
-      "href": "https://www.linkedin.com/company/aoe",
-      "icon": "linkedIn"
-    },
-    {
-      "href": "https://www.xing.com/company/aoe",
-      "icon": "xing"
-    },
-    {
-      "href": "https://github.com/aoepeople",
-      "icon": "github"
-    }
+    { "href": "https://twitter.com/infonl", "iconName": "twitter" },
+    { "href": "https://www.facebook.com/infonl", "iconName": "facebook" },
+    { "href": "https://www.linkedin.com/company/info-nl", "iconName": "linkedIn" },
+    { "href": "https://www.instagram.com/infonl", "iconName": "instagram" },
+    { "href": "https://www.youtube.com/channel/UCZS0hQt54T3sUcyUZhkcxag", "iconName": "youtube" },
+    { "href": "https://github.com/infonl", "iconName": "github" }
   ],
   "imprint": "https://www.aoe.com/en/imprint.html",
   "labels": {
