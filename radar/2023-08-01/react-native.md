@@ -15,7 +15,7 @@ Expo has a rich set of prebuilt components and services like build, update, and 
 
 The combination of React Native, Expo, and CodePush offers several significant advantages:
 
-- **Code Reuse & Cost-Effectiveness**: React Native allows for maintaining a single codebase for both iOS and Android platforms-and-operations, promoting cost and time efficiency.
+- **Code Reuse & Cost-Effectiveness**: React Native allows for maintaining a single codebase for both iOS and Android platforms, promoting cost and time efficiency.
 
 - **Community and Support**: React Native has strong community support, which Expo enhances by providing a managed environment, thus reducing setup and maintenance overhead.
 

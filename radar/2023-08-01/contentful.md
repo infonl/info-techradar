@@ -5,7 +5,7 @@ quadrant: tools
 featured: true
 ---
 
-Contentful is a versatile headless CMS that allows teams to manage content across multiple digital platforms-and-operations. Its API-first approach decouples content management from presentation, enabling parallel workflows between developers and content creators for faster digital product delivery.
+Contentful is a versatile headless CMS that allows teams to manage content across multiple digital platforms. Its API-first approach decouples content management from presentation, enabling parallel workflows between developers and content creators for faster digital product delivery.
 
   
 
