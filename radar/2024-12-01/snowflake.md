@@ -23,7 +23,8 @@ Snowflake is a cloud-based data warehousing platform that offers scalable storag
 
 ### Considerations at INFO
 
-- Snowflake is being assessed for projects that require advanced data warehousing capabilities, seamless scalability, and efficient data sharing mechanisms.
+- Snowflake is being assessed for projects that require advanced data warehousing capabilities, seamless scalability, and efficient data sharing mechanisms. We are mainly evaluating it as a competitor vs. Databricks.
+
 
 - **Current Focus:** Evaluating integration with existing data ecosystems, cost-effectiveness, and its ability to support complex analytical queries and workloads.
 
