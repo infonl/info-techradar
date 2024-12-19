@@ -1,0 +1,14 @@
+name: Vercel Production Deployment
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  Deploy-Production:
+    uses: ./.github/workflows/deployment-template.yml
+    with:
+      environment: Production
+      build_option: --prod
+    secrets: inherit
