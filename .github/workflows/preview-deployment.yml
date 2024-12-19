@@ -1,0 +1,12 @@
+name: Vercel Preview Deployment
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  Deploy-Preview:
+    uses: ./.github/workflows/deployment-template.yml
+    with:
+      environment: Preview
+    secrets: inherit
