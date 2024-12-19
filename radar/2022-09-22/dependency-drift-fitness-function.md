@@ -1,7 +1,7 @@
 ---
 title: "Dependency drift fitness function"
 ring: hold
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: false
 ---
 

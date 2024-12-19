@@ -1,7 +1,7 @@
 ---
 title: "Micro Frontends"
 ring: hold
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: false
 ---
 

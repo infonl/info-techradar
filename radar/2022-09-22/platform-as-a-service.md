@@ -1,7 +1,7 @@
 ---
 title: "Platform as a Service (PaaS)"
 ring: assess
-quadrant: platforms
+quadrant: platforms-and-operations
 featured: true
 ---
 

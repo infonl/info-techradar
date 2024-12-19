@@ -1,7 +1,7 @@
 ---
 title: "Micro Frontends"
 ring: assess
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Cloud hosting cost optimisation"
 ring: adopt
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: true
 ---
 

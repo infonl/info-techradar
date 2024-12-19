@@ -9,3 +9,5 @@ build
 techradar
 # bin
 src/rd.json
+.next
+.techradar

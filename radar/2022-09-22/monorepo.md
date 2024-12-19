@@ -1,8 +1,8 @@
 ---
 title: "Monorepo"
 ring: trial
-quadrant: techniques
-featured: true
+quadrant: methods-and-patterns
+featured: false
 ---
 
 A <a href="https://monorepo.tools/">monorepo</a> is a single source code repository containing multiple distinct projects, 

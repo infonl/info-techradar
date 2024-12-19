@@ -1,7 +1,7 @@
 ---
 title: "Progressive Web Applications"
 ring: assess
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: true
 ---
 

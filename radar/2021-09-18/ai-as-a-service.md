@@ -1,7 +1,7 @@
 ---
 title: "AI as a Service"
 ring: trial
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Support for Internet Explorer 11"
 ring: hold
-quadrant: platforms
+quadrant: platforms-and-operations
 featured: false
 ---
 

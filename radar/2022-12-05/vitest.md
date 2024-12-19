@@ -2,7 +2,7 @@
 title: "Vitest"
 ring: adopt
 quadrant: tools
-featured: true
+featured: false
 ---
 
 We prefer to use <a href="https://vitest.dev/">Vitest</a> as <a href="typescript.html">TypeScript</a> unit test framework.

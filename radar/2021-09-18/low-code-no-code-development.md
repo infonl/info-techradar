@@ -1,7 +1,7 @@
 ---
 title: "Low-code / no-code development"
 ring: assess
-quadrant: platforms
+quadrant: platforms-and-operations
 featured: true
 ---
 

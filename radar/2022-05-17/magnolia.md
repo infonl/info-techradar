@@ -1,7 +1,7 @@
 ---
 title: "Magnolia"
 ring: hold
-quadrant: platforms
+quadrant: platforms-and-operations
 featured: false
 ---
 

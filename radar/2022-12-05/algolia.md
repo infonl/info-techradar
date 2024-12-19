@@ -1,7 +1,7 @@
 ---
 title: "Algolia"
 ring: assess
-quadrant: platforms
+quadrant: platforms-and-operations
 featured: true
 ---
 

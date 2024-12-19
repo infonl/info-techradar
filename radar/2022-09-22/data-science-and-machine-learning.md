@@ -1,7 +1,7 @@
 ---
 title: "Data Science and Machine Learning"
 ring: hold
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: false
 ---
 

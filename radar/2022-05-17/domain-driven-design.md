@@ -1,7 +1,7 @@
 ---
 title: "Domain Driven Design (DDD)"
 ring: adopt
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: true
 ---
 

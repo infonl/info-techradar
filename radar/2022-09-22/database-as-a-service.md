@@ -1,7 +1,7 @@
 ---
 title: "Database as a Service (DBaaS)"
 ring: assess
-quadrant: techniques
+quadrant: methods-and-patterns
 featured: true
 ---
 
