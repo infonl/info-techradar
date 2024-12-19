@@ -1,6 +1,6 @@
 {
-  "basePath": "/info-techradar",
-  "baseUrl": "https://infonl.github.io/info-techradar",
+  "basePath": "/",
+  "baseUrl": "",
   "logoFile": "/logo.svg",
   "jsFile": "",
   "toggles": {
