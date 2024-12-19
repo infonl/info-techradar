@@ -1,483 +1,533 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>/info-techradar/index.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/ai-as-a-service.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/algolia.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/amazon-cognito.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/amazon-s3.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/aws.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/aws-ci-cd-tools.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/aws-iam.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/axiom.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/azure.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/azure-devops.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/backstage.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/bdd.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/bitbucket-cloud-and-pipelines.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/c4-model.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/chai.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/chakra-ui.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/clerk.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/cloud-hosting-cost-optimisation.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/cloud-native-platforms.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/cockroachdb.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/content-as-a-service.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/contentful.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/cypress.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/data-science-and-machine-learning.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/data-streaming.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/database-as-a-service.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/dependency-drift-fitness-function.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/digitalocean.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/docker.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/docker-developer-environments.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/domain-driven-design.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/dora.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/event-driven-architecture.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/event-sourcing.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/evolutionary-architecture.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/express.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/figma.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/git-rebase-and-merge-merge-strategy.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/github.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/github-code-spaces.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/github-copilot.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/github-packages.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/go.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/google-analytics.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/graphql.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/idea-intellij.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/infrastructure-as-code.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/jamstack.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/java.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/javascript.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/jest.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/k6.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/keycloak.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/kotlin.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/kubernetes.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/low-code-no-code-development.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/magnolia.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/micro-frontends.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/microservices.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/mocha.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/monorepo.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/nestjs.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/nextjs.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/nodejs.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/platform-as-a-service.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/playwrite.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/postgresql.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/prisma.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/progressive-web-applications.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/pulumi.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/python.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/react.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/react-native.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/redis.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/render.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/renovate.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/run-cost-as-architecture-fitness-function.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/sanity.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/sentry.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/techniques/serverless.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/serverless-framework.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/snyk.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/storyblok.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/strapi.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/superblocks.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/support-for-ie11.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/tailwind-css.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/tanstack-query.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/terraform.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/trpc.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/turborepo.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/languages-and-frameworks/typescript.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/platforms/vercel.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/visual-studio-code.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>/info-techradar/tools/vitest.html</loc>
-    <lastmod>2024-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
+<url>
+<loc>/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>1</priority>
+</url>
+<url>
+<loc>/overview/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>/help-and-about-tech-radar/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>/tools/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/ai-as-a-service/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/algolia/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/amazon-cognito/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/amazon-s3/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/aws/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/aws-ci-cd-tools/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/aws-iam/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/axiom/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/azure/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/azure-devops/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/backstage/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/bdd/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/bitbucket-cloud-and-pipelines/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/c4-model/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/chai/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/chakra-ui/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/clerk/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/cloud-hosting-cost-optimisation/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/cloud-native-platforms/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/cockroachdb/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/content-as-a-service/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/contentful/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/cypress/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/data-science-and-machine-learning/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/data-streaming/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/database-as-a-service/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/databricks/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/dependency-drift-fitness-function/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/digitalocean/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/docker/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/docker-developer-environments/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/domain-driven-design/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/dora/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/event-sourcing/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/event-driven-architecture/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/evolutionary-architecture/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/express/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/figma/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/github/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/github-code-spaces/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/github-copilot/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/github-packages/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/github-projects/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/go/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/google-analytics/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/grafana/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/graphql/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/idea-intellij/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/infrastructure-as-code/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/jamstack/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/java/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/javascript/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/jest/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/k6/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/keycloak/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/kotlin/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/kubernetes/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/low-code-no-code-development/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/magnolia/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/micro-frontends/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/microservices/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/mocha/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/monorepo/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/nestjs/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/nextjs/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/nodejs/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/platform-as-a-service/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/playwright/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/postgresql/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/prisma/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/progressive-web-applications/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/pulumi/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/python/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/react/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/react-native/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/git-rebase-and-merge-merge-strategy/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/redis/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/render/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/renovate/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/run-cost-as-architecture-fitness-function/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/sanity/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/sentry/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/methods-and-patterns/serverless/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/serverless-framework/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/snowflake/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/snyk/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/storyblok/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/strapi/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/superblocks/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/support-for-ie11/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/tailwind-css/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/tanstack-query/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/terraform/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/trpc/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/turborepo/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/languages-and-frameworks/typescript/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/platforms-and-operations/vercel/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/visual-studio-code/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>/tools/vitest/</loc>
+<lastmod>2024-12-19T10:03:18.482Z</lastmod>
+<priority>0.5</priority>
+</url>
 </urlset>
