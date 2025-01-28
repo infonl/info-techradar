@@ -5,7 +5,7 @@ quadrant: platforms-and-operations
 featured: true
 ---
 
-Render is a general-purpose Platform as a Service (PaaS) provider that simplifies cloud deployment by offering an intuitive interface for hosting web applications, databases, and microservices. Initially assessed as a potential alternative for projects where the complexity of AWS is not warranted, Render aimed to provide a cheaper and more flexible solution compared to traditional cloud providers.
+[Render](https://render.com/) is a general-purpose Platform as a Service ([PaaS](/platforms-and-operations/platform-as-a-service)) provider that simplifies cloud deployment by offering an intuitive interface for hosting web applications, databases, and microservices. Initially assessed as a potential alternative for projects where the complexity of AWS is not warranted, Render aimed to provide a cheaper and more flexible solution compared to traditional cloud providers.
 
 ### Previous Benefits of Render
 
@@ -15,8 +15,8 @@ Render is a general-purpose Platform as a Service (PaaS) provider that simplifie
 
 ### Reasons for Holding
 
-- **Standardizing Cloud Offerings:** To streamline our cloud infrastructure, we are focusing on mainstream providers like AWS, Azure, and Google Cloud that offer more comprehensive services and better integration capabilities.
-- **Competitive Alternatives:** Platforms like Vercel and DigitalOcean provide similar or enhanced features with greater scalability and community support.
+- **Standardizing Cloud Offerings:** To streamline our cloud infrastructure, we are focusing on mainstream providers like [AWS](/platforms-and-operations/aws), [Azure](/platforms-and-operations/azure), and Google Cloud that offer more comprehensive services and better integration capabilities.
+- **Competitive Alternatives:** Platforms like [Vercel](/platforms-and-operations/vercel) and [DigitalOcean](/platforms-and-operations/digitalocean) provide similar or enhanced features with greater scalability and community support.
 - **Lack of Distinct Advantages:** Render does not offer significant benefits over competitors that would justify its continued adoption within our technology stack.
 
 ### Current Stance at INFO

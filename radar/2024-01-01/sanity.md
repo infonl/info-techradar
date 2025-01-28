@@ -5,9 +5,9 @@ quadrant: tools
 featured: true
 ---
 
-Sanity is a powerful, customizable, headless CMS designed for real-time collaboration and highly structured content management. It offers a unique combination of flexibility, API-driven architecture, and a fully customizable studio.
+[Sanity](https://www.sanity.io) is a powerful, customizable, headless CMS designed for real-time collaboration and highly structured content management. It offers a unique combination of flexibility, API-driven architecture, and a fully customizable studio.
 
-  
+
 
 ### Why Sanity?
 
@@ -17,9 +17,9 @@ Sanity is a powerful, customizable, headless CMS designed for real-time collabor
 
 - **Real-Time Collaboration:** Enables simultaneous editing and collaboration with version control and history tracking.
 
-- **Scalable API Support:** Strong APIs with GraphQL support that are adaptable to complex workflows and integrations.
+- **Scalable API Support:** Strong APIs with [GraphQL](/languages-and-frameworks/graphql) support that are adaptable to complex workflows and integrations.
 
-  
+
 
 ### Considerations at INFO
 
@@ -27,6 +27,6 @@ Sanity is a powerful, customizable, headless CMS designed for real-time collabor
 
 - **Current Focus:** Evaluating real-time collaboration features, API capabilities, and the flexibility of content modeling.
 
-  
+
 
 Sanity's high degree of customization and collaboration features make it a strong choice as we assess its alignment with our content management needs.

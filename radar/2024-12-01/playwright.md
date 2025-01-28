@@ -5,9 +5,7 @@ quadrant: tools
 featured: true
 ---
 
-Playwright has emerged as our preferred tool in the functional testing landscape, offering a comprehensive and flexible toolset that extends beyond traditional test automation frameworks. At INFO, we have adopted Playwright for its advanced capabilities in cross-browser automation and rich testing features.
-
-  
+[Playwright](https://playwright.dev/) has emerged as our preferred tool in the functional testing landscape, offering a comprehensive and flexible toolset that extends beyond traditional test automation frameworks. At INFO, we have adopted Playwright for its advanced capabilities in cross-browser automation and rich testing features.
 
 ### Why Playwright?
 
@@ -19,7 +17,7 @@ Playwright has emerged as our preferred tool in the functional testing landscape
 
 - **Powerful Network Interception:** Provides robust API controls to mock network responses, handle authentication, and manipulate request/response headers for thorough testing.
 
-  
+
 
 ### Use Cases
 
@@ -29,7 +27,7 @@ Playwright has emerged as our preferred tool in the functional testing landscape
 
 - **Visual Testing:** Can capture screenshots and compare images, useful for UI regression testing.
 
-  
+
 
 ### Adoption at INFO
 
@@ -39,6 +37,6 @@ Playwright has emerged as our preferred tool in the functional testing landscape
 
 - **Enhanced Collaboration:** Facilitates better collaboration between developers and QA engineers through its robust and versatile API.
 
-  
+
 
 Playwright's unique features have complemented and enhanced our testing practices, leading to its adoption as the primary tool for functional testing at INFO.

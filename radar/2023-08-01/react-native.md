@@ -5,7 +5,7 @@ quadrant: languages-and-frameworks
 featured: true
 ---
 
-[React Native](https://reactnative.dev/) is a popular open-source framework that allows developers to create mobile applications for both iOS and Android using JavaScript and React. Its central principle is "learn once, write anywhere," enabling a single codebase for both iOS and Android applications.
+[React Native](https://reactnative.dev/) is a popular open-source framework that allows developers to create mobile applications for both iOS and Android using [JavaScript](/languages-and-frameworks/javascript) and [React](/languages-and-frameworks/react). Its central principle is "learn once, write anywhere," enabling a single codebase for both iOS and Android applications.
 
 [Expo](https://expo.io/) is a free and open-source toolchain built around React Native. It simplifies the process of building, deploying, and iterating on iOS, Android, and web apps.
 

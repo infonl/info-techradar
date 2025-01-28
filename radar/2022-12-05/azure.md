@@ -5,7 +5,7 @@ quadrant: platforms-and-operations
 featured: true
 ---
 
-We decided to strongly prefer <a href="aws.html">AWS</a> over Azure as cloud-native platform for new client solutions from now on and therefore put Azure on hold. The main reason for this decision is that at this moment in time we wish to consolidate more on our preferred technology stack to make it easier for us to staff our projects and maintain our client solutions.
+We decided to strongly prefer [AWS](/platforms-and-operations/aws) over [Azure](https://azure.microsoft.com/en-us/explore/) as cloud-native platform for new client solutions from now on and therefore put Azure on hold. The main reason for this decision is that at this moment in time we wish to consolidate more on our preferred technology stack to make it easier for us to staff our projects and maintain our client solutions.
 
 We prefer AWS over Azure since AWS is the (local as well as global) market leader in the space of cloud-native computing, and we think offers the best set of services for our needs. Next to AWS we are trialing and assessing PaaS solutions as well.
 

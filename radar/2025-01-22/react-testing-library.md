@@ -5,7 +5,7 @@ quadrant: tools
 featured: true
 ---
 
-React Testing Library is a testing utility that encourages best practices by focusing on testing components from the user's perspective. It is designed to work with React applications and provides a simple API for querying and interacting with the DOM.
+[React Testing Library](https://testing-library.com/) is a testing utility that encourages best practices by focusing on testing components from the user's perspective. It is designed to work with React applications and provides a simple API for querying and interacting with the DOM.
 
 ### Why React Testing Library?
 
@@ -13,11 +13,11 @@ React Testing Library is a testing utility that encourages best practices by foc
 
 - **Simplicity:** Offers a straightforward API that reduces the complexity of writing tests, making it easier for developers to adopt and use.
 
-- **Integration with Vitest:** Works seamlessly with [Vitest](/tools/vitest/), a popular JavaScript testing framework, providing a robust environment for writing and running tests.
+- **Integration with Vitest:** Works seamlessly with [Vitest](/tools/vitest/), a popular [JavaScript](/languages-and-frameworks/javascript) testing framework, providing a robust environment for writing and running tests.
 
 ### Considerations at INFO
 
-- React Testing Library has a strong community and is widely adopted in the React ecosystem, providing access to a wealth of resources, plugins, and community support.
+- React Testing Library has a strong community and is widely adopted in the [React](/languages-and-frameworks/react) ecosystem, providing access to a wealth of resources, plugins, and community support.
 
 - Promotes best practices in testing by discouraging reliance on implementation details and encouraging tests that reflect actual user behavior.
 

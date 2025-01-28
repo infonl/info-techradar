@@ -5,9 +5,9 @@ quadrant: tools
 featured: true
 ---
 
-Cypress has been a valuable tool for functional testing at INFO, known for its robustness and developer-friendly environment. However, as we prioritize advanced testing capabilities and cross-browser support, Cypress is now on hold while we focus on Playwright as our preferred solution.
+[Cypress](https://www.cypress.io/) has been a valuable tool for functional testing at INFO, known for its robustness and developer-friendly environment. However, as we prioritize advanced testing capabilities and cross-browser support, Cypress is now on hold while we focus on [Playwright](/tools/playwright) as our preferred solution.
 
-  
+
 
 ### Previous Benefits of Cypress
 
@@ -19,7 +19,7 @@ Cypress has been a valuable tool for functional testing at INFO, known for its r
 
 - **Robust Ecosystem:** Had a rich plugin ecosystem for easy integration with CI/CD pipelines and reporting tools.
 
-  
+
 
 ### Reasons for Holding
 
@@ -29,7 +29,7 @@ Cypress has been a valuable tool for functional testing at INFO, known for its r
 
 - **Advanced Features:** Playwright's advanced capabilities in network interception and browser context isolation provide more robust testing options.
 
-  
+
 
 ### Considerations at INFO
 
@@ -39,6 +39,6 @@ Cypress has been a valuable tool for functional testing at INFO, known for its r
 
 - **Training and Resources:** Resources are being allocated to train teams on Playwright to ensure a smooth transition.
 
-  
+
 
 Cypress played a significant role in our testing strategy, but with Playwright's adoption, we are focusing on tools that better meet our evolving testing requirements.

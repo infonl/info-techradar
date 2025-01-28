@@ -5,7 +5,7 @@ quadrant: tools
 featured: true
 ---
 
-Pulumi is an open-source Infrastructure as Code (IaC) tool that enables developers to define and manage cloud infrastructure using familiar programming languages like TypeScript, Python, Go, and C#. It bridges the gap between development and operations by allowing code-based infrastructure definitions, promoting reusability and collaboration.
+[Pulumi](https://www.pulumi.com) is an open-source [Infrastructure as Code (IaC)](/methods-and-patterns/infrastructure-as-code) tool that enables developers to define and manage cloud infrastructure using familiar programming languages like [TypeScript](/languages-and-frameworks/typescript), [Python](/languages-and-frameworks/python), [Go](/languages-and-frameworks/go), and C#. It bridges the gap between development and operations by allowing code-based infrastructure definitions, promoting reusability and collaboration.
 
 ### Previous Benefits of Pulumi
 
@@ -19,7 +19,7 @@ Pulumi is an open-source Infrastructure as Code (IaC) tool that enables develope
 
 - **Complexity for Teams:** The use of full-fledged programming languages introduced a steeper learning curve for infrastructure teams accustomed to declarative languages.
 
-- **Ecosystem Maturity:** Compared to Terraform, Pulumi has a smaller community and fewer pre-built modules, affecting the speed of development and issue resolution.
+- **Ecosystem Maturity:** Compared to [Terraform](/tools/terraform), Pulumi has a smaller community and fewer pre-built modules, affecting the speed of development and issue resolution.
 
 - **Standardization Needs:** To streamline our IaC practices, standardizing on a single tool with broad industry support became a priority.
 

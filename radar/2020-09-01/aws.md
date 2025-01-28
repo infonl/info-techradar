@@ -5,4 +5,4 @@ quadrant: platforms-and-operations
 featured: true
 ---
 
-We prefer AWS or Azure cloud-native infrastructure for new client solutions.
+We prefer [AWS](https://aws.amazon.com) or [Azure](/platforms-and-operations/azure) cloud-native infrastructure for new client solutions.

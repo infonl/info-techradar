@@ -5,9 +5,9 @@ quadrant: platforms-and-operations
 featured: true
 ---
 
-[Vercel](https://vercel.com/) is a leading Platform as a Service (PaaS) provider that specializes in frontend deployment and development, providing an efficient and robust infrastructure for modern web applications.
+[Vercel](https://vercel.com/) is a leading Platform as a Service ([PaaS](/platforms-and-operations/platform-as-a-service)) provider that specializes in frontend deployment and development, providing an efficient and robust infrastructure for modern web applications.
 
-Vercel is the creator of [Next. js](https://nextjs.org/), a popular React framework that is heavily used in our teams. It provides comprehensive support for many frontend technologies, including but not limited to React, Vue, Angular, and Ember.
+Vercel is the creator of [Next.js](/languages-and-frameworks/nextjs), a popular [React](/languages-and-frameworks/react) framework that is heavily used in our teams. It provides comprehensive support for many frontend technologies, including but not limited to React, Vue, Angular, and Ember.
 
 One of Vercel's significant strengths is its diverse range of services, which significantly streamline and optimize the development process:
 
