@@ -5,7 +5,7 @@ quadrant: tools
 featured: true
 ---
 
-Terraform is the industry-leading open-source Infrastructure as Code (IaC) tool that allows teams to define and provision infrastructure across multiple cloud providers using a declarative configuration language. At INFO, we have adopted Terraform as our preferred IaC solution due to its maturity, scalability, and extensive community support.
+[Terraform](https://www.terraform.io) is the industry-leading open-source Infrastructure as Code (IaC) tool that allows teams to define and provision infrastructure across multiple cloud providers using a declarative configuration language. At INFO, we have adopted Terraform as our preferred IaC solution due to its maturity, scalability, and extensive community support.
 
 ### Why Terraform?
 

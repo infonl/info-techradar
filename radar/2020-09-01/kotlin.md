@@ -5,13 +5,13 @@ quadrant: languages-and-frameworks
 featured: true
 ---
 
-Kotlin is one of our preferred backend technologies.
+[Kotlin](https://kotlinlang.org/) is one of our preferred backend technologies.
 
-We see Kotlin as a logical evolution of <a href='java.html'>Java</a> bringing increased agility to
+We see Kotlin as a logical evolution of [Java](/languages-and-frameworks/java) bringing increased agility to
 development teams while requiring a minimal learning curve when coming from Java.
 When using Kotlin we prefer Ktor over Spring Boot as web framework.
 
-When compared to <a href="nodejs.html">Node.js</a> we prefer Kotlin when:
+When compared to [Node.js](/languages-and-frameworks/nodejs) we prefer Kotlin when:
 
 - The application needs to perform multiple tasks concurrently, where some of these tasks can be
   computationally expensive. The application needs to remain performant during this time. The

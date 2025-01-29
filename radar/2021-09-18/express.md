@@ -5,4 +5,4 @@ quadrant: languages-and-frameworks
 featured: false
 ---
 
-We prefer Fastify over Express as Node.js web framework.
+We prefer [Fastify](https://fastify.dev/) over [Express](https://expressjs.com/) as [Node.js](/languages-and-frameworks/nodejs) web framework.

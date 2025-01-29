@@ -5,4 +5,4 @@ quadrant: languages-and-frameworks
 featured: true
 ---
 
-We now prefer <a href='kotlin.html'>Kotlin</a> over Java.
+We now prefer [Kotlin](/languages-and-frameworks/kotlin) over [Java](https://www.oracle.com/java/).

@@ -5,8 +5,8 @@ quadrant: languages-and-frameworks
 featured: true
 ---
 
-GraphQL is a powerful way to expose an API for frontend use. 
-We prefer it over REST APIs in most cases because it often increases flexibility and agility, 
+[GraphQL](https://graphql.org/) is a powerful way to expose an API for frontend use.
+We prefer it over REST APIs in most cases because it often increases flexibility and agility,
 depending on the context (e.g. external APIs may need to use REST for API clients' needs).
 
 Beware

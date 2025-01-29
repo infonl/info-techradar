@@ -5,9 +5,9 @@ quadrant: tools
 featured: true
 ---
 
-At INFO, we prioritize continuous automated testing to ensure high-quality software delivery. Cypress remains our tool of choice for functional testing due to its robustness, developer-friendly environment, and extensive feature set.
+At INFO, we prioritize continuous automated testing to ensure high-quality software delivery. [Cypress](https://www.cypress.io/) remains our tool of choice for functional testing due to its robustness, developer-friendly environment, and extensive feature set.
 
-  
+
 
 ### Why Cypress?
 
@@ -17,9 +17,9 @@ At INFO, we prioritize continuous automated testing to ensure high-quality softw
 
 - **Automatic Waiting:** Cypress automatically waits for elements to be ready, reducing the need for manual wait commands and making tests more stable.
 
-- Robust Ecosystem:** With a rich plugin ecosystem, Cypress allows easy integration with CI/CD pipelines, reporting tools, and more.
+- **Robust Ecosystem:** With a rich plugin ecosystem, Cypress allows easy integration with CI/CD pipelines, reporting tools, and more.
 
-  
+
 
 ### Use Cases
 
@@ -29,7 +29,7 @@ At INFO, we prioritize continuous automated testing to ensure high-quality softw
 
 - **Cross-Browser Testing:** Support multiple browsers, including Chrome, Firefox, and Edge.
 
-  
+
 
 ### Best Practices at INFO
 
@@ -39,6 +39,6 @@ At INFO, we prioritize continuous automated testing to ensure high-quality softw
 
 - **Continuous Integration:** Run tests in CI pipelines to ensure code quality before production deployment.
 
-  
+
 
 Cypress helps us maintain high standards in software quality, and its adoption continues to grow across our teams.

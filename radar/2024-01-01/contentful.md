@@ -5,7 +5,7 @@ quadrant: tools
 featured: true
 ---
 
-Contentful is our preferred headless CMS for managing content across diverse digital platforms. With its robust API-first architecture and user-friendly interface, Contentful streamlines content management and delivery, enabling teams to work efficiently and collaboratively.
+[Contentful](https://www.contentful.com/) is our preferred headless CMS for managing content across diverse digital platforms. With its robust API-first architecture and user-friendly interface, Contentful streamlines content management and delivery, enabling teams to work efficiently and collaboratively.
 
 ### Why Contentful?
 - **Headless Architecture:** Facilitates omnichannel content delivery with a robust set of APIs, ideal for websites, mobile apps, and other digital products.

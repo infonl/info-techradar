@@ -5,7 +5,7 @@ quadrant: tools
 featured: true
 ---
 
-Grafana is an open-source visualization and analytics platform widely used for monitoring and observability. It enables teams to query, visualize, and understand their metrics across various data sources, making it a cornerstone of modern observability stacks.
+[Grafana](https://grafana.com/) is an open-source visualization and analytics platform widely used for monitoring and observability. It enables teams to query, visualize, and understand their metrics across various data sources, making it a cornerstone of modern observability stacks.
 
 ### Why Grafana?
 
@@ -25,7 +25,7 @@ Grafana is an open-source visualization and analytics platform widely used for m
 
 - **System Monitoring:** Track performance metrics, resource utilization, and uptime across multiple environments.
 - **Application Observability:** Gain insights into application behavior through logs, traces, and metrics in a single dashboard.
-- **Business Analytics:** Visualize key business metrics by integrating Grafana with data sources like PostgreSQL or Google Sheets.
+- **Business Analytics:** Visualize key business metrics by integrating Grafana with data sources like [PostgreSQL](/platforms-and-operations/postgresql) or Google Sheets.
 
 ### Moving Forward
 

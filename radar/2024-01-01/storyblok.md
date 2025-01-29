@@ -5,7 +5,7 @@ quadrant: tools
 featured: true
 ---
 
-Storyblok's unique blend of visual editing and component-based content management offers a compelling solution for dynamic websites and content-rich applications. Its real-time visual editor and flexible architecture are designed to empower content creators and developers alike.
+[Storyblok](https://www.storyblok.com/)'s unique blend of visual editing and component-based content management offers a compelling solution for dynamic websites and content-rich applications. Its real-time visual editor and flexible architecture are designed to empower content creators and developers alike.
 
 ### Why Storyblok?
 - **Real-Time Visual Editor:** Provides a unique visual editing experience, allowing immediate feedback and adjustments to content.

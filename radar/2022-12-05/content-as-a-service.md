@@ -5,4 +5,4 @@ quadrant: methods-and-patterns
 featured: true
 ---
 
-In the Content as a Service space we prefer to use <a href="strapi.html">Strapi CMS</a> but are also trialling <a href="sanity.html">Sanity</a>.
+In the Content as a Service space we prefer to use [Strapi CMS](/tools/strapi) but are also trialling [Sanity](/tools/sanity).

@@ -1,0 +1,5 @@
+{
+    "watch": ["./"],
+    "ext": "md,css",
+    "exec": "npx techradar serve"
+}

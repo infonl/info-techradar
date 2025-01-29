@@ -5,7 +5,7 @@ quadrant: tools
 featured: true
 ---
 
-GitHub Projects is an integrated project management tool within GitHub that enables teams to plan, track, and manage work directly alongside their code. Especially beneficial for open-source projects, GitHub Projects offers a streamlined alternative to traditional issue trackers like JIRA, simplifying collaboration and increasing transparency.
+[GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects) is an integrated project management tool within GitHub that enables teams to plan, track, and manage work directly alongside their code. Especially beneficial for open-source projects, GitHub Projects offers a streamlined alternative to traditional issue trackers like JIRA, simplifying collaboration and increasing transparency.
 
 ### Why GitHub Projects?
 
