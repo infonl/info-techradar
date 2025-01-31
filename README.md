@@ -19,3 +19,5 @@ npm run build
 ```
 Host the application under a sub path
 To host the application under a sub path with Next.js, you'll need to configure the basePath in your config.json. This replaces the previous PUBLIC_URL environment variable approach.
+
+.
