@@ -8,5 +8,5 @@ jobs:
   Deploy-Preview:
     uses: ./.github/workflows/deployment-template.yml
     with:
-      environment: Preview
+      environment: preview
     secrets: inherit
