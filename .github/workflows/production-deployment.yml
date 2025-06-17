@@ -9,6 +9,6 @@ jobs:
   Deploy-Production:
     uses: ./.github/workflows/deployment-template.yml
     with:
-      environment: Production
+      environment: production
       build_option: --prod
     secrets: inherit
