@@ -5,11 +5,11 @@ quadrant: platforms-and-operations
 featured: true
 ---
 
-European Sovereign Cloud refers to cloud infrastructure operated by European providers, subject exclusively to EU jurisdiction, and designed to guarantee full digital sovereignty. As geopolitical tensions and extraterritorial legislation (such as the US CLOUD Act and FISA Section 702) create uncertainty around data processed by non-EU cloud providers, the need for genuinely sovereign alternatives has become a strategic priority — particularly for organisations handling sensitive data or operating in regulated sectors.
+European Sovereign Cloud refers to cloud infrastructure operated by European providers, subject exclusively to EU jurisdiction, and designed to guarantee full digital sovereignty. As geopolitical tensions and extraterritorial legislation (such as the US CLOUD Act and FISA Section 702) create uncertainty around data processed by non-EU cloud providers, the need for genuinely sovereign alternatives has become a strategic priority, particularly for organisations handling sensitive data or operating in regulated sectors.
 
 ### Why European Sovereign Cloud?
 
-- **Digital Sovereignty:** Ensures that data, infrastructure, and operations remain entirely within EU legal jurisdiction, eliminating exposure to non-EU government access requests.
+- **Digital Sovereignty:** Ensures that data, infrastructure, and operations remain entirely within EU legal jurisdiction, eliminating exposure to non-EU government access requests or restrictions.
 
 - **GDPR & Schrems II Compliance:** Following the Schrems II ruling, transferring personal data to US-based providers carries inherent legal risk. European sovereign cloud providers eliminate this concern by design.
 
@@ -25,7 +25,7 @@ When evaluating a European sovereign cloud provider, the following criteria are 
 
 - **EU Ownership & Jurisdiction:** The provider must be an EU-registered entity with no controlling interest by non-EU parties.
 
-- **OpenStack or Open API:** An open, standardised API — preferably [OpenStack](https://www.openstack.org/) — significantly reduces vendor lock-in. OpenStack is the de facto open standard for cloud infrastructure and enables portability across providers.
+- **OpenStack or Open API:** An open, standardised API, preferably [OpenStack](https://www.openstack.org/), significantly reduces vendor lock-in. OpenStack is the de facto open standard for cloud infrastructure and enables portability across providers.
 
 - **Managed Kubernetes:** A mature, managed Kubernetes offering is critical for modern application deployment and operations.
 
@@ -33,13 +33,13 @@ When evaluating a European sovereign cloud provider, the following criteria are 
 
 - **Infrastructure as Code Compatibility:** First-class support for [Terraform](/tools/terraform) / [OpenTofu](https://opentofu.org/) providers is essential for automation and reproducibility.
 
-- **Certifications:** ISO 27001, SOC 2, and — depending on context — NEN 7510 (healthcare) or BIO (Dutch government) compliance.
+- **Certifications:** ISO 27001, SOC 2, and, depending on context, NEN 7510 (healthcare) or BIO (Dutch government) compliance.
 
 - **Data Centre Location:** Preference for Dutch or at minimum EU-based data centres with transparent information about physical locations.
 
 ### Provider Assessment
 
-#### Cyso (Netherlands) — Shortlisted
+#### Cyso (Netherlands), Shortlisted
 
 [Cyso](https://cyso.com/) is a Dutch cloud provider offering OpenStack-based infrastructure with data centres in the Netherlands.
 
@@ -47,23 +47,23 @@ When evaluating a European sovereign cloud provider, the following criteria are 
 - **Considerations:** Smaller scale compared to hyperscalers; evaluate depth of managed services catalogue (databases, backups, monitoring) and support SLA.
 - **Verdict:** Strong fit for sovereignty requirements. The OpenStack API is a significant advantage for avoiding lock-in. Recommended for further evaluation.
 
-#### Scaleway (France) — Under Evaluation
+#### Scaleway (France), Under Evaluation
 
 [Scaleway](https://www.scaleway.com/) is a French cloud provider (part of the Iliad Group) offering a broad and modern cloud platform.
 
 - **Strengths:** Comprehensive service catalogue (managed Kubernetes / Kapsule, managed databases, object storage, serverless, container registry), competitive pricing, strong developer experience, modern API and CLI tooling, French/EU data centres.
-- **Considerations:** Does not use OpenStack — uses a proprietary (but well-documented) API, which increases provider-specific coupling. However, a Terraform provider is available, mitigating some lock-in risk. French entity, so not Dutch — but firmly within EU jurisdiction.
+- **Considerations:** Does not use OpenStack, instead using a proprietary (but well-documented) API, which increases provider-specific coupling. However, a Terraform provider is available, mitigating some lock-in risk. French entity, so not Dutch, but firmly within EU jurisdiction.
 - **Verdict:** Excellent technical offering with a broad service catalogue. The lack of OpenStack is a trade-off against the richness of features. Good option if the team accepts a degree of API-level coupling.
 
-#### OVHcloud (France) — Alternative
+#### OVHcloud (France), Alternative
 
 [OVHcloud](https://www.ovhcloud.com/) is one of Europe's largest cloud providers and a founding member of GAIA-X.
 
 - **Strengths:** OpenStack-based public cloud, managed Kubernetes, extensive global data centre network (with multiple EU locations including the Netherlands), competitive pricing, ISO 27001 and HDS certified, GAIA-X member. Terraform provider available.
-- **Considerations:** Mixed reputation for support quality. Some enterprise-grade managed services (e.g. advanced database options) lag behind hyperscalers. Recent data centre incidents (Strasbourg, 2021) raised questions about resilience practices — OVHcloud has since invested heavily in improvements.
+- **Considerations:** Mixed reputation for support quality. Some enterprise-grade managed services (e.g. advanced database options) lag behind hyperscalers. Recent data centre incidents (Strasbourg, 2021) raised questions about resilience practices, though OVHcloud has since invested heavily in improvements.
 - **Verdict:** Solid choice for OpenStack-based sovereign cloud. The scale of OVHcloud and GAIA-X membership are meaningful advantages.
 
-#### STACKIT (Germany) — Alternative
+#### STACKIT (Germany), Alternative
 
 [STACKIT](https://www.stackit.de/) is the cloud platform of the Schwarz Group (Lidl/Kaufmann), built on OpenStack.
 
