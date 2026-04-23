@@ -43,7 +43,7 @@ When evaluating a European sovereign cloud provider, the following criteria are 
 
 [Cyso](https://cyso.com/) is a Dutch cloud provider offering OpenStack-based infrastructure with data centres in the Netherlands.
 
-- **Strengths:** Dutch entity, OpenStack API (maximises portability), Kubernetes support, strong focus on managed hosting and compliance, ISO 27001 certified.
+- **Strengths:** Dutch entity, OpenStack API (maximises portability), Kubernetes support, strong focus on managed hosting and compliance, ISO 27001 and NEN 7510 certified. Through the acquisition of [Fuga Cloud](https://www.fuga.cloud/), Cyso now operates a mature OpenStack-based public cloud platform with multiple EU regions (Amsterdam, Frankfurt, and more planned), NVMe storage, and a "4 opens" philosophy (open development, open standards, open source, open collaboration).
 - **Considerations:** Smaller scale compared to hyperscalers; evaluate depth of managed services catalogue (databases, backups, monitoring) and support SLA.
 - **Verdict:** Strong fit for sovereignty requirements. The OpenStack API is a significant advantage for avoiding lock-in. Recommended for further evaluation.
 
@@ -75,7 +75,6 @@ When evaluating a European sovereign cloud provider, the following criteria are 
 
 - **[Cleura](https://cleura.com/)** (Sweden): OpenStack-based, formerly City Network. Strong sovereignty focus, compliant cloud, EU data centres.
 - **[Open Telekom Cloud](https://open-telekom-cloud.com/)** (Germany): OpenStack-based, operated by T-Systems (Deutsche Telekom). Enterprise-grade with broad service catalogue.
-- **[PCextreme](https://www.pcextreme.nl/)** (Netherlands): Dutch OpenStack provider (Aurora Cloud). Smaller scale but strong Dutch sovereignty credentials.
 
 ### Recommendation
 
