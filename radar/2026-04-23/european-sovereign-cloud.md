@@ -51,7 +51,7 @@ When evaluating a European sovereign cloud provider, the following criteria are 
 
 [Scaleway](https://www.scaleway.com/) is a French cloud provider (part of the Iliad Group) offering a broad and modern cloud platform.
 
-- **Strengths:** Comprehensive service catalogue (managed Kubernetes / Kapsule, managed databases, object storage, serverless, container registry), competitive pricing, strong developer experience, modern API and CLI tooling, French/EU data centres.
+- **Strengths:** Comprehensive service catalogue (managed Kubernetes / Kapsule, managed databases, object storage, serverless, container registry), competitive pricing, strong developer experience, modern API and CLI tooling, out-of-the-box ovservability, French/EU data centres.
 - **Considerations:** Does not use OpenStack, instead using a proprietary (but well-documented) API, which increases provider-specific coupling. However, a Terraform provider is available, mitigating some lock-in risk. French entity, so not Dutch, but firmly within EU jurisdiction.
 - **Verdict:** Excellent technical offering with a broad service catalogue. The lack of OpenStack is a trade-off against the richness of features. Good option if the team accepts a degree of API-level coupling.
 
