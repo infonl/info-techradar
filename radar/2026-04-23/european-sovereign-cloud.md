@@ -23,11 +23,11 @@ European Sovereign Cloud refers to cloud infrastructure operated by European pro
 
 When evaluating a European sovereign cloud provider, the following criteria are essential:
 
-- **EU Ownership & Jurisdiction:** The provider must be an EU-registered entity with no controlling interest by non-EU parties. This is the foundation of true sovereignty.
+- **EU Ownership & Jurisdiction:** The provider must be an EU-registered entity with no controlling interest by non-EU parties.
 
 - **OpenStack or Open API:** An open, standardised API — preferably [OpenStack](https://www.openstack.org/) — significantly reduces vendor lock-in. OpenStack is the de facto open standard for cloud infrastructure and enables portability across providers.
 
-- **Managed Kubernetes:** A mature, managed Kubernetes offering (or equivalent container orchestration) is critical for modern application deployment and operations.
+- **Managed Kubernetes:** A mature, managed Kubernetes offering is critical for modern application deployment and operations.
 
 - **Comprehensive Service Catalogue:** Beyond compute and storage, look for managed databases, object storage, load balancers, DNS, backup services, VPN/networking, and monitoring.
 
@@ -87,6 +87,6 @@ We recommend a structured proof-of-concept comparing **Cyso** and **one other pr
 4. **Support & SLA:** Test responsiveness and quality of technical support.
 5. **Exit strategy:** Confirm that workloads can be migrated to an alternative OpenStack provider or back to a hyperscaler if needed.
 
-The sovereign cloud landscape in Europe is maturing rapidly. Placing this topic on **assess** reflects that these providers warrant serious evaluation for projects where digital sovereignty is a requirement, while acknowledging that a definitive recommendation requires hands-on validation.
+The sovereign cloud landscape in Europe is maturing rapidly. Placing this topic on **trial** reflects that these providers warrant serious evaluation for projects where digital sovereignty is a requirement, while at the same time acknowledging that a definitive recommendation requires hands-on validation.
 
 ---
