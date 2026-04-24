@@ -33,6 +33,8 @@ When evaluating a European sovereign cloud provider, the following criteria are 
 
 - **Infrastructure as Code Compatibility:** First-class support for [Terraform](/tools/terraform) / [OpenTofu](https://opentofu.org/) providers is essential for automation and reproducibility.
 
+- **Cost Transparency & Competitiveness:** Transparent, predictable pricing without hidden fees. Evaluate compute, storage, egress, and managed services costs against each other and hyperscaler equivalents. Pricing models vary significantly between providers and should be compared per use case.
+
 - **Certifications:** ISO 27001, SOC 2, and, depending on context, NEN 7510 (healthcare) or BIO (Dutch government) compliance.
 
 - **Data Centre Location:** Preference for Dutch or at minimum EU-based data centres with transparent information about physical locations.
