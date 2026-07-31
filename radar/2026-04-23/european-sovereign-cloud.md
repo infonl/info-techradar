@@ -31,7 +31,7 @@ When evaluating a European sovereign cloud provider, the following criteria are 
 
 - **Comprehensive Service Catalogue:** Beyond compute and storage, look for managed databases, object storage, load balancers, DNS, backup services, VPN/networking, and monitoring.
 
-- **Infrastructure as Code Compatibility:** First-class support for [Terraform](/tools/terraform) / [OpenTofu](https://opentofu.org/) providers is essential for automation and reproducibility.
+- **Infrastructure as Code Compatibility:** First-class support for Terraform / [OpenTofu](https://opentofu.org/) providers is essential for automation and reproducibility.
 
 - **Cost Transparency & Competitiveness:** Transparent, predictable pricing without hidden fees. Evaluate compute, storage, egress, and managed services costs against each other and hyperscaler equivalents. Pricing models vary significantly between providers and should be compared per use case.
 
