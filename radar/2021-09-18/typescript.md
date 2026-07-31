@@ -5,7 +5,7 @@ quadrant: languages-and-frameworks
 featured: true
 ---
 
-We prefer TypeScript to [JavaScript](/languages-and-frameworks/typescript). Our decision in more detail:
+We prefer TypeScript to JavaScript. Our decision in more detail:
 
 In the context of creating user-interfaces with React and back-end applications
 using [Node.js](/languages-and-frameworks/nodejs), facing the proliferation of different languages used within INFO and the engineering
