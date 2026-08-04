@@ -9,4 +9,4 @@ We prefer to use the free open-source source code editor [Visual Studio Code (VS
 
 It is the most widely used code editor (and IDE with the right extensions) for working with [Typescript](/languages-and-frameworks/typescript) code bases and it serves all our needs.
 
-However when working on our [Kotlin](/languages-and-frameworks/kotlin) and [Java](/languages-and-frameworks/java) code bases we still prefer to use [IntelliJ IDEA](/tools/idea-intellij) as IDE.
+However when working on our [Kotlin](/languages-and-frameworks/kotlin) and Java code bases we still prefer to use [IntelliJ IDEA](/tools/idea-intellij) as IDE.

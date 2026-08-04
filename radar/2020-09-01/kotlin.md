@@ -7,7 +7,7 @@ featured: true
 
 [Kotlin](https://kotlinlang.org/) is one of our preferred backend technologies.
 
-We see Kotlin as a logical evolution of [Java](/languages-and-frameworks/java) bringing increased agility to
+We see Kotlin as a logical evolution of Java bringing increased agility to
 development teams while requiring a minimal learning curve when coming from Java.
 When using Kotlin we prefer Ktor over Spring Boot as web framework.
 
