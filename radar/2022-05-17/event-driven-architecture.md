@@ -12,5 +12,4 @@ architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/ar
 - Real-time processing with minimum time lag.
 - Complex event processing, such as pattern matching or aggregation over time windows.
 - High volume and high velocity of data, such as IoT.
-  Be aware of the complexities and potential pitfalls involved when adopting this architecture. When
-  using Even-Driven Architectures consider using Event Sourcing.
+  Be aware of the complexities and potential pitfalls involved when adopting this architecture.
