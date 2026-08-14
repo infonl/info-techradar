@@ -5,9 +5,7 @@ quadrant: tools
 featured: true
 ---
 
-[Kubernetes](https://kubernetes.io/) is the industry standard for container orchestration and is offered as a managed service by every major cloud provider.
-
-Adopting it starts with something more basic: we containerise the stack. Containers are how we run software during development and how we ship it to every environment beyond that, which keeps what a developer runs locally close to what actually goes to production.
+Adopting [Kubernetes](https://kubernetes.io/) starts with something more basic: we containerise the stack. Containers are how we run software during development and how we ship it to every environment beyond that, which keeps what a developer runs locally close to what actually goes to production.
 
 How much orchestration a solution needs on top of that varies, and we work across the whole range:
 
