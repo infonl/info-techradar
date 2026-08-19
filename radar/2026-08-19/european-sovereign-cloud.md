@@ -69,7 +69,7 @@ When evaluating a European sovereign cloud provider, the following criteria are 
 
 #### STACKIT (Germany), Alternative
 
-[STACKIT](https://www.stackit.de/) is the cloud platform of the Schwarz Group (Lidl/Kaufmann), built on OpenStack.
+[STACKIT](https://www.stackit.de/) is the cloud platform of the Schwarz Group (Lidl/Kaufland), built on OpenStack.
 
 - **Strengths:** German entity backed by one of Europe's largest retail groups, OpenStack-based, managed Kubernetes (SKE), managed databases (PostgreSQL, MariaDB, Redis, RabbitMQ), object storage, strong compliance posture (ISO 27001, C5), GAIA-X aligned. Terraform provider available. Notably, STACKIT has been contracted by De Nederlandsche Bank (DNB), underscoring its credibility and suitability for highly regulated financial institutions within the EU.
 - **Considerations:** Relatively newer entrant to the public cloud market. The service catalogue is growing but may not yet match the breadth of Scaleway or OVHcloud. Less mature community and ecosystem.
