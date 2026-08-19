@@ -17,7 +17,7 @@ In general, and especially for our Open Source Common Ground projects, we prefer
 
 - **Regulatory Alignment:** Sectors such as government ([BIO](https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/kaders-voor-cybersecurity/baseline-informatiebeveiliging-overheid/)), healthcare ([NEN 7510](https://www.nen.nl/nen-7510-1-2017-nl-238898)), and finance increasingly require or strongly prefer data processing within EU borders by EU-controlled entities.
 
-- **Reducing Strategic Dependency:** Reliance on a small number of US hyperscalers ([AWS](/platforms-and-operations/aws), [Azure](/platforms-and-operations/azure), GCP) creates concentration risk. Diversifying towards European providers strengthens organisational resilience.
+- **Reducing Strategic Dependency:** Reliance on a small number of US hyperscalers ([AWS](/platforms-and-operations/aws), [Azure](/platforms-and-operations/azure), Google Cloud Platform (GCP)) creates concentration risk. Diversifying towards European providers strengthens organisational resilience.
 
 - **GAIA-X & European Cloud Initiatives:** The [GAIA-X](https://gaia-x.eu/) initiative promotes interoperable, transparent, and sovereign data infrastructure across Europe. Selecting providers aligned with these principles future-proofs the investment.
 
