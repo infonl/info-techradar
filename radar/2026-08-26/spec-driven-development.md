@@ -11,4 +11,4 @@ The specification is the artifact that matters: it gives the agent structured co
 
 We encourage combining SDD with [Domain Driven Design](/methods-and-patterns/domain-driven-design): DDD supplies the shared language and domain boundaries, SDD turns that understanding into verifiable requirements. Together they keep agentic coding tools like [Claude Code](/tools/claude-code) pointed at the right problem, not just generating code fast.
 
-Where scenarios are best captured collaboratively with business stakeholders, [BDD](/methods-and-patterns/bdd) and Gherkin remain a good source of input for a spec.
+Where scenarios are best captured collaboratively with business stakeholders, [BDD](/methods-and-patterns/bdd) remains a good source of input for a spec.
