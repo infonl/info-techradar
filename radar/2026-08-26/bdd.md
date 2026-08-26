@@ -13,4 +13,6 @@ We write those scenarios in Gherkin, whose Given/When/Then structure is delibera
 
 BDD is not a one-size-fits-all solution. It works best when the team is genuinely committed to the collaborative approach and when complex business rules need to be understood by everyone involved. Where the requirements are simple, or where the only readers are engineers, the ceremony costs more than it returns.
 
-BDD scenarios are also a good source of input for [Spec Driven Development](/methods-and-patterns/spec-driven-development): a well-written Given/When/Then already reads like part of a spec an agent can implement against.
+The concrete handover from BDD is the Gherkin feature file: a Given/When/Then scenario that doubles as executable specification and living documentation, versioned alongside the code it describes. That is exactly the artifact [Spec Driven Development](/methods-and-patterns/spec-driven-development) wants as input — a well-written scenario already reads like part of a spec an agent can implement and verify against.
+
+BDD's Given/When/Then vocabulary works best when it is grounded in a shared domain language, which is where [Domain Driven Design](/methods-and-patterns/domain-driven-design) comes in: DDD's ubiquitous language keeps a scenario's terms consistent with the terms used in the model and the code.
