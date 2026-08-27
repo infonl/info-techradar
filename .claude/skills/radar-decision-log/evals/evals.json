@@ -1,0 +1,26 @@
+{
+  "skill_name": "radar-decision-log",
+  "evals": [
+    {
+      "id": 0,
+      "name": "react-history",
+      "prompt": "Show me the full history of the React entry on the radar.",
+      "expected_output": "report.md with a chronological table of every snapshot containing react.md, columns: date, ring, quadrant, note. Current ring stated.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "movement-report",
+      "prompt": "Generate a movement report of every ring change between snapshots from 2024-01-01 onward.",
+      "expected_output": "report.md grouping ring changes by quadrant, listing tech, transition (old → new), date.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "adr-index",
+      "prompt": "Build me an ADR-style index of every current radar entry, grouped by quadrant.",
+      "expected_output": "report.md with each quadrant as a section, each entry listed with its current ring and the date it was last touched.",
+      "files": []
+    }
+  ]
+}
