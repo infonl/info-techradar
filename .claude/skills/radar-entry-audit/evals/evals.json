@@ -1,0 +1,26 @@
+{
+  "skill_name": "radar-entry-audit",
+  "evals": [
+    {
+      "id": 0,
+      "name": "snapshot-audit",
+      "prompt": "Audit the latest snapshot at radar/2025-01-22 for ADR quality issues.",
+      "expected_output": "A report.md with findings grouped by severity (errors/warnings/info) for each file in radar/2025-01-22, covering frontmatter, rationale, internal links, slug/title.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "broken-links",
+      "prompt": "Run an audit across the whole radar/ tree and report broken internal links.",
+      "expected_output": "report.md listing each /quadrant/slug/ link in any radar entry that does not resolve to an existing file under radar/*/<slug>.md. Indicate file + line + bad link.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "slug-mismatch",
+      "prompt": "Find any radar entries where the slug filename doesn't match the title field.",
+      "expected_output": "report.md listing files where the kebab-case form of `title:` does not equal the filename slug.",
+      "files": []
+    }
+  ]
+}
