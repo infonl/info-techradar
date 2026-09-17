@@ -44,3 +44,7 @@ Every quadrant is divided into four rings:
 - Assess: We have tried it, and we find it promising. We recommend having a look at these items when you face a specific need for the technology in your project.
 - Hold: This category is a bit special. Unlike the others, we recommend stopping doing or using something. That does not mean that they are bad, and it often might be ok to use them in existing projects. But we move things here if we think we shouldn't do them any more because we see better options or alternatives now.
 
+### Design-related choices
+This tech radar does not cover design tools and choices. For those, see the [INFO Design radar](https://infonl.atlassian.net/wiki/spaces/exp/pages/966688781/INFO+Design+radar).
+Currently only accessible to INFO employees, but publicly available in the future.
+
