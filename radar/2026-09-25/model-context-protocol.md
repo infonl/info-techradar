@@ -11,9 +11,9 @@ We use MCP to package capabilities such as retrieval over our data as reusable s
 
 ### Why MCP?
 
-- **Build once, reuse everywhere:** A capability built as an MCP server is not tied to one application, model or vendor. That is exactly the reuse of skills and tech stack we aim for across Data & AI projects.
+- **Build once, reuse everywhere:** A capability built as an MCP server is not tied to one application, model or vendor. That fits our aim to reuse skills and components across Data & AI projects.
 
-- **Open standard:** Widely supported by model providers and tooling, with official SDKs in the languages we use.
+- **Open standard:** Governed by the Linux Foundation's Agentic AI Foundation and supported by all major model providers, with official SDKs in the languages we use.
 
 ### Considerations
 

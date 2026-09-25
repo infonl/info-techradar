@@ -11,12 +11,14 @@ We run the LiteLLM proxy ourselves as the single entry point for LLM traffic in 
 
 ### Why LiteLLM?
 
-- **Budgets and access control:** Every consumer gets a scoped virtual key with its own allowed models, rate limit, budget and expiry. Spend is tracked per key, which makes the cost of an experiment or a client visible from day one.
+- **Budgets and access control:** Every consumer gets a scoped virtual key with its own allowed models, rate limit, budget and expiry. Spend is tracked per key, so the cost of an experiment or a client is visible from day one.
 
 - **Model independence:** We do not want to commit to one model or one vendor. The gateway lets us mix commercial models and self-hosted open-weight models behind the same API, with load balancing, retries and fallbacks between them.
 
-- **Self-hosted:** Because we run it ourselves, prompts and keys stay on our own infrastructure, which fits our preference for a [European Sovereign Cloud](/platforms-and-operations/european-sovereign-cloud).
+- **Self-hosted:** Because we run it ourselves, keys, logs and spend data stay on our own infrastructure, and prompts only go to the upstream we route them to.
 
 ### Considerations
 
-- **Keep the admin surface private:** The proxy holds the master key and all provider keys. Expose only the model API publicly and keep the admin UI behind SSO.
+- **Keep the admin surface private:** The proxy holds the master key and all provider keys. Expose only the model API publicly and keep the admin UI on a private network or behind SSO.
+
+- **Pin versions:** In March 2026 two LiteLLM releases on PyPI were [compromised in a supply chain attack](https://docs.litellm.ai/blog/security-update-march-2026). Pin exact versions or image digests and upgrade deliberately.

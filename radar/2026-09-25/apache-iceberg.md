@@ -11,11 +11,11 @@ Iceberg is the foundation of the open source lakehouse we prefer for our own pro
 
 ### Why Iceberg?
 
-- **No engine lock-in:** The same tables can be read and written by [DuckDB](/tools/duckdb), Spark, Trino, Python (PyIceberg) and Databricks. The data outlives whichever engine is fashionable.
+- **No engine lock-in:** The same tables can be read and written by [DuckDB](/tools/duckdb), Spark, Trino, Python (PyIceberg) and Databricks. Switching engines does not mean migrating data.
 
 - **Runs anywhere:** All it needs is object storage and a catalog, so it runs just as well on a [European Sovereign Cloud](/platforms-and-operations/european-sovereign-cloud) or on our own hardware as on a hyperscaler.
 
-- **Safe evolution:** Schema and partition changes do not require rewriting data, and snapshots make it possible to reproduce what a table looked like at any point in time.
+- **Safe evolution:** Schema and partition changes do not require rewriting data, and snapshots make it possible to reproduce what a table looked like at any retained snapshot.
 
 ### Considerations
 

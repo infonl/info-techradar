@@ -19,4 +19,5 @@ We use it both during development and in production, as the query engine and ser
 
 ### Considerations
 
-- **Single node:** DuckDB scales up, not out. For truly large datasets a distributed engine or [Databricks](/tools/databricks) is still the better fit.
+- **Single node:** DuckDB scales up, not out. For datasets that do not fit on one machine, a distributed engine or [Databricks](/tools/databricks) is still the better fit.
+- **Concurrency:** Only one process can write to a database file at a time. Plan the serving layer for read-mostly workloads.
