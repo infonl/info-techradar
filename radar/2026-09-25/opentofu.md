@@ -13,7 +13,7 @@ OpenTofu is our default tool for [Infrastructure as Code](/methods-and-patterns/
 
 - **One tool for every cloud:** The same workflow and language provision [AWS](/platforms-and-operations/aws), [Azure](/platforms-and-operations/azure) and European providers alike. Good provider support is one of our selection criteria for a [European Sovereign Cloud](/platforms-and-operations/european-sovereign-cloud), and it is what makes moving between clouds realistic.
 
-- **Open license and governance:** An open license and vendor-neutral governance mean the tool at the core of our infrastructure cannot be relicensed from under us.
+- **Open license and governance:** The tool at the core of our infrastructure cannot be relicensed from under us.
 
 - **Drop-in for Terraform:** Existing Terraform code, providers and modules work, so migrating from Terraform 1.5 or older is usually a matter of swapping the binary.
 

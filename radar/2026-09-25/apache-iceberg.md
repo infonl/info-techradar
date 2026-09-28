@@ -15,7 +15,7 @@ Iceberg is the foundation of the open source lakehouse we prefer for our project
 
 - **Runs anywhere:** All it needs is object storage and a catalog, so it runs just as well on a [European Sovereign Cloud](/platforms-and-operations/european-sovereign-cloud) or on our own hardware as on a hyperscaler.
 
-- **Safe evolution:** Schema and partition changes do not require rewriting data, and snapshots make it possible to reproduce what a table looked like at any retained snapshot.
+- **Safe evolution:** Schema and partition changes do not require rewriting data, and you can query a table as it was at any retained snapshot.
 
 ### Considerations
 
