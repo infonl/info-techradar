@@ -12,3 +12,5 @@ The specification is the handover artifact that matters: it gives the agent as w
 We encourage combining SDD with [Domain Driven Design](/methods-and-patterns/domain-driven-design): DDD supplies the shared language and domain boundaries, SDD turns that understanding into verifiable requirements. Together they keep agentic coding tools like [Claude Code](/tools/claude-code) pointed at the right problem, not just generating code fast.
 
 Where scenarios are best captured collaboratively with business stakeholders, [BDD](/methods-and-patterns/bdd) remains a good source of input for a spec.
+
+In practice we use tools like [OpenSpec](/tools/openspec) or [Spec-Kit](/tools/spec-kit) to structure this: each gives you a proposal, a spec, a task list and scenarios. Pick one framework per project so the folder structure stays consistent across projects.
