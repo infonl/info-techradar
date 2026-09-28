@@ -5,7 +5,7 @@ quadrant: tools
 featured: true
 ---
 
-[DuckDB](https://duckdb.org/) is an in-process analytical database: a single library, no server, that runs fast SQL over Parquet, CSV and [Apache Iceberg](/platforms-and-operations/apache-iceberg) tables, locally or straight from object storage.
+[DuckDB](https://duckdb.org/) is an in-process analytical database: a single library, no server, that runs fast SQL over [Parquet](https://parquet.apache.org/), CSV and [Apache Iceberg](/platforms-and-operations/apache-iceberg) tables, locally or straight from object storage.
 
 We use it both during development and in production, as the query engine and serving layer on top of our lakehouse. There it replaced a separate distributed query engine that was more infrastructure than our data volumes justified.
 

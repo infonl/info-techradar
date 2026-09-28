@@ -5,7 +5,7 @@ quadrant: tools
 featured: true
 ---
 
-[OpenTofu](https://opentofu.org/) is the open source fork of Terraform, created after HashiCorp moved Terraform to the Business Source License in 2023. It is a CNCF project under the Linux Foundation, licensed under MPL 2.0 and compatible with the existing Terraform providers and modules.
+[OpenTofu](https://opentofu.org/) is the open source fork of Terraform, created after HashiCorp moved Terraform to the Business Source License in 2023. It is a [CNCF](https://www.cncf.io/) project under the Linux Foundation, licensed under MPL 2.0 and compatible with the existing Terraform providers and modules.
 
 OpenTofu is our default tool for [Infrastructure as Code](/methods-and-patterns/infrastructure-as-code). We use it in preference to provider-specific templating such as CloudFormation or ARM templates, and in preference to Terraform itself.
 

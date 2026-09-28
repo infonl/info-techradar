@@ -5,7 +5,7 @@ quadrant: methods-and-patterns
 featured: true
 ---
 
-We instrument our applications with [OpenTelemetry](https://opentelemetry.io/) (OTel), the vendor-neutral CNCF standard for traces, metrics and logs. It provides the APIs, SDKs and the OTLP wire protocol, and practically every observability backend accepts it.
+We instrument our applications with [OpenTelemetry](https://opentelemetry.io/) (OTel), the vendor-neutral [CNCF](https://www.cncf.io/) standard for traces, metrics and logs. It provides the APIs, SDKs and the OTLP wire protocol, and practically every observability backend accepts it.
 
 ### Why OpenTelemetry?
 
