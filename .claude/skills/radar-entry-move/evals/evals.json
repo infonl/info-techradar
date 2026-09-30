@@ -1,0 +1,26 @@
+{
+  "skill_name": "radar-entry-move",
+  "evals": [
+    {
+      "id": 0,
+      "name": "terraform-promote",
+      "prompt": "Promote terraform from trial to adopt — it's now our standard for IaC across all platform teams.",
+      "expected_output": "A new file in a current/new dated snapshot under radar/ containing terraform.md with ring=adopt, supersession note linking radar/2024-12-01/. Original 2024-12-01 file untouched.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "cypress-hold",
+      "prompt": "Move Cypress to hold. We're standardizing on Playwright instead.",
+      "expected_output": "New cypress.md in current/new snapshot with ring=hold, supersession note, and an internal link to the Playwright entry. Prior cypress.md untouched.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "react-unfeature",
+      "prompt": "We've decided React is now so standard it shouldn't be featured anymore — keep it adopt but unfeature it.",
+      "expected_output": "New react.md in current snapshot with ring=adopt, featured=false, supersession note explaining 'industry given' rationale.",
+      "files": []
+    }
+  ]
+}

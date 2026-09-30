@@ -1,0 +1,26 @@
+{
+  "skill_name": "radar-entry-new",
+  "evals": [
+    {
+      "id": 0,
+      "name": "vitest-add",
+      "prompt": "We're starting to use Vitest as our JS test runner across new projects, replacing Jest. Add it to the radar.",
+      "expected_output": "A new markdown file under radar/<latest-snapshot>/vitest.md with valid frontmatter (title, ring, quadrant=tools, featured), Why/Considerations sections, internal links to related entries.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "bun-assess",
+      "prompt": "Add Bun to the radar — we want to evaluate it for tooling, not committed yet.",
+      "expected_output": "A new markdown file at radar/<snapshot>/bun.md with ring=assess, appropriate quadrant (tools or platforms-and-operations), ADR-shape body emphasizing evaluation context.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "ddd-method",
+      "prompt": "Document our decision to use Domain-Driven Design as our primary methodology for new services.",
+      "expected_output": "A new markdown file under radar/<snapshot>/domain-driven-design.md with quadrant=methods-and-patterns, ring=adopt, ADR-style decision body referencing context and trade-offs.",
+      "files": []
+    }
+  ]
+}
