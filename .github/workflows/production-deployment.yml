@@ -5,6 +5,11 @@ on:
     branches:
       - main
 
+# Serialize production deploys so an older commit can't be aliased after a newer one
+concurrency:
+  group: production-deploy
+  cancel-in-progress: false
+
 jobs:
   Deploy-Production:
     uses: ./.github/workflows/deployment-template.yml
