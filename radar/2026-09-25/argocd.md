@@ -2,7 +2,7 @@
 title: "Argo CD"
 ring: trial
 quadrant: tools
-featured: false
+featured: true
 ---
 
 [Argo CD](https://argo-cd.readthedocs.io/) is a GitOps continuous delivery tool for [Kubernetes](/tools/kubernetes). The desired state of a cluster lives in Git, and Argo CD continuously reconciles what is running against that declared state.
