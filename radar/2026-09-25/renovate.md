@@ -2,7 +2,7 @@
 title: "Renovate"
 ring: adopt
 quadrant: tools
-featured: false
+featured: true
 ---
 
 We put [Renovate](https://docs.renovatebot.com/) back on adopt. It is our preferred tool for automated dependency updates, in preference to Dependabot.
