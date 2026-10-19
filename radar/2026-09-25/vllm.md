@@ -1,6 +1,6 @@
 ---
 title: "vLLM"
-ring: assess
+ring: trial
 quadrant: platforms-and-operations
 featured: true
 ---

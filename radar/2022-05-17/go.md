@@ -1,6 +1,6 @@
 ---
 title: "Go"
-ring: assess
+ring: trial
 quadrant: languages-and-frameworks
 featured: true
 ---

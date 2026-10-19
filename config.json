@@ -60,16 +60,8 @@
       "title": "Trial",
       "description": "",
       "color": "#457b9d",
-      "radius": 0.69,
+      "radius": 0.8,
       "strokeWidth": 3
-    },
-    {
-      "id": "assess",
-      "title": "Assess",
-      "description": "",
-      "color": "#bc6c25",
-      "radius": 0.85,
-      "strokeWidth": 2
     },
     {
       "id": "hold",
