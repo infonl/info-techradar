@@ -1,6 +1,6 @@
 ---
 title: "Spec-Kit"
-ring: assess
+ring: trial
 quadrant: tools
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Snyk"
-ring: assess
+ring: trial
 quadrant: tools
 featured: true
 ---

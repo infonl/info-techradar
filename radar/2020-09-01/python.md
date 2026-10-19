@@ -1,6 +1,6 @@
 ---
 title: "Python"
-ring: assess
+ring: trial
 quadrant: languages-and-frameworks
 featured: true
 ---
