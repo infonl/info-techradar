@@ -1,10 +1,19 @@
 ---
 title: "DORA Metrics"
-ring: hold
+ring: trial
 quadrant: methods-and-patterns
 featured: false
 ---
 
-We feel DORA metrics have become less relevant to us as a standalone framework. Their four metrics are narrow and deployment-centric, and in practice we get broader, more actionable insight from instrumenting our systems directly with [OpenTelemetry](/methods-and-patterns/opentelemetry) and visualizing the results in [Grafana](/tools/grafana). That combination lets us track the SRE metrics that matter to us, tailored to each system, rather than fitting our observability strategy to a fixed set of four benchmarks.
+[DORA metrics](https://dora.dev/guides/dora-metrics-four-keys/) measure how teams deliver software: deployment frequency, lead time for changes, change failure rate and time to restore service. They do not replace [OpenTelemetry](/methods-and-patterns/opentelemetry) and [Grafana](/tools/grafana). Those tell us how our systems behave, while DORA tells us how our teams deliver. We need both.
 
-We are putting DORA metrics on hold in favor of this OpenTelemetry + Grafana approach.
+What has changed is how we deliver. In the agentic way of working we now prefer, AI agents write, and increasingly merge, a large share of our code. As Rick Pollick argues in [DORA Metrics in the Agentic Era](https://rickpollick.com/blog/dora-metrics-agentic-era), the classic four metrics assume each commit and deploy costs human effort. Once agents do much of the work, that assumption breaks:
+
+- **Deployment frequency** goes up with trivial changes and stops being a signal of value delivered.
+- **Lead time for changes** can shrink through revert churn without anything new reaching production.
+- **Change failure rate** tends to rise, with many small, agent-generated failures that never show up as major incidents.
+- **Time to restore** matters more than ever.
+
+The article suggests keeping the four keys and adding a second layer, such as outcome latency (from human intent to verified customer value), reviewer load, rework ratio, and segmenting change failure rate by human, agent-assisted and agent-authored changes.
+
+We are moving DORA metrics back to Trial to work out how to use them in our agentic way of working: which of the classic metrics still mean something, which extra metrics we need, and how to measure them without just rewarding throughput.
