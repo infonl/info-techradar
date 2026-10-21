@@ -14,8 +14,6 @@ What has changed is how we deliver. In the agentic way of working we now prefer,
 - **Change failure rate** tends to rise, with many small, agent-generated failures that never show up as major incidents.
 - **Time to restore** matters more than ever.
 
-We expect to keep the four keys and add a second layer, such as outcome latency (from human intent to verified customer value), reviewer load, rework ratio, and segmenting change failure rate by human, agent-assisted and agent-authored changes.
-
 We are moving DORA metrics back to Trial to work out how to use them in our agentic way of working: which of the classic metrics still mean something, which extra metrics we need, and how to measure them without just rewarding throughput.
 
 Beyond DORA, we want to evaluate Site Reliability Engineering metrics in a broader sense, such as the [DevOps and SRE metrics described by Logz.io](https://logz.io/blog/evops-sre-metrics/), to get a fuller picture of both delivery performance and the reliability of what we run in production.
