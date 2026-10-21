@@ -1,7 +1,7 @@
 ---
-title: "Workflow Orchestration"
+title: "Dagster / Argo Workflows"
 ring: trial
-quadrant: platforms-and-operations
+quadrant: tools
 featured: true
 ---
 
