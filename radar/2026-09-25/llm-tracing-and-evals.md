@@ -13,4 +13,4 @@ LLM applications fail differently from ordinary code: the same input can give a 
 
 The capability matters more than the tool, and the right tool differs per project. We currently use [Langfuse](https://langfuse.com/) for tracing, prompt management and evals. It is open core: the core is MIT licensed and can be self-hosted, but some enterprise features are under a commercial license, and the company is owned by ClickHouse.
 
-Where it fits, we prefer [Apache Burr](https://burr.apache.org/) (incubating). Burr is a framework for building agents and LLM applications as explicit state machines, with a self-hosted UI to trace and debug every step. It is fully open source under Apache governance.
+For new agents we prefer building with [Apache Burr](https://burr.apache.org/), which models an application as an explicit state machine and ships a self-hosted UI to trace and debug every step. It is open source and incubating at the Apache Software Foundation, so tracing comes with the framework instead of from a separate vendor.

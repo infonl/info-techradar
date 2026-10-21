@@ -15,6 +15,4 @@ We use it together with [Expo](https://expo.dev/), the open-source toolchain bui
 
 - **EAS Build and Submit**: builds and store submissions run in the cloud, without every developer needing a full native toolchain.
 
-- **EAS Update**: over-the-air updates ship bug fixes and JavaScript changes directly to users' devices without waiting for app store review. It replaces Microsoft CodePush, which was retired together with App Center in 2025.
-
-As with any technology, successful adoption will depend on the specific project requirements and the team's expertise.
+- **EAS Update**: over-the-air updates ship bug fixes and JavaScript changes directly to users' devices without waiting for app store review. It replaces Microsoft's hosted CodePush service, which was retired with App Center in March 2025.

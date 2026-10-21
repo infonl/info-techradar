@@ -9,4 +9,4 @@ featured: true
 
 It is the choice when several applications share users, or when single sign-on and identity federation are needed. For authentication inside a single application we use better-auth, as part of our [TypeScript stack and tooling](/languages-and-frameworks/typescript).
 
-In one project we use [ZITADEL](https://zitadel.com/) as a lighter alternative: a single binary on PostgreSQL with multi-tenancy built in. It is open source under AGPL 3.0 since 2025, from a Swiss company. Keycloak remains our default.
+In one project we use [ZITADEL](https://zitadel.com/) as a lighter alternative: PostgreSQL-only, with multi-tenancy built in. It is open source under AGPL 3.0 since 2025, from a Swiss company. Keycloak remains our default.

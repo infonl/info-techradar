@@ -56,14 +56,14 @@ When evaluating a European sovereign cloud provider, the following criteria are 
 [Scaleway](https://www.scaleway.com/) is a French cloud provider (part of the Iliad Group) offering a broad and modern cloud platform.
 
 - **Strengths:** Comprehensive service catalogue (managed Kubernetes / Kapsule, managed databases, object storage, serverless, container registry), competitive pricing, strong developer experience, modern API and CLI tooling, out-of-the-box observability, French/EU data centres.
-- **Considerations:** Does not use OpenStack, instead using a proprietary (but well-documented) API, which increases provider-specific coupling. However, a Terraform provider is available, mitigating some lock-in risk. French entity, so not Dutch, but firmly within EU jurisdiction.
+- **Considerations:** Does not use OpenStack, instead using a proprietary (but well-documented) API, which increases provider-specific coupling. However, a Terraform/OpenTofu provider is available, mitigating some lock-in risk. French entity, so not Dutch, but firmly within EU jurisdiction.
 - **Verdict:** Excellent technical offering with a broad service catalogue. The lack of OpenStack is a trade-off against the richness of features. Good option if the team accepts a degree of API-level coupling.
 
 #### OVHcloud (France), Alternative
 
 [OVHcloud](https://www.ovhcloud.com/) is one of Europe's largest cloud providers and a founding member of GAIA-X.
 
-- **Strengths:** OpenStack-based public cloud, managed Kubernetes, extensive global data centre network (with multiple EU locations including the Netherlands), competitive pricing, ISO 27001 and HDS certified, GAIA-X member. Terraform provider available.
+- **Strengths:** OpenStack-based public cloud, managed Kubernetes, extensive global data centre network (with multiple EU locations including the Netherlands), competitive pricing, ISO 27001 and HDS certified, GAIA-X member. Terraform/OpenTofu provider available.
 - **Considerations:** Mixed reputation for support quality. Some enterprise-grade managed services (e.g. advanced database options) lag behind hyperscalers. Recent data centre incidents (Strasbourg, 2021) raised questions about resilience practices, though OVHcloud has since invested heavily in improvements.
 - **Verdict:** Solid choice for OpenStack-based sovereign cloud. The scale of OVHcloud and GAIA-X membership are meaningful advantages.
 
@@ -71,7 +71,7 @@ When evaluating a European sovereign cloud provider, the following criteria are 
 
 [STACKIT](https://www.stackit.de/) is the cloud platform of the Schwarz Group (Lidl/Kaufland), built on OpenStack.
 
-- **Strengths:** German entity backed by one of Europe's largest retail groups, OpenStack-based, managed Kubernetes (SKE), managed databases (PostgreSQL, MariaDB, Redis, RabbitMQ), object storage, strong compliance posture (ISO 27001, C5), GAIA-X aligned. Terraform provider available. Notably, STACKIT has been contracted by De Nederlandsche Bank (DNB), underscoring its credibility and suitability for highly regulated financial institutions within the EU.
+- **Strengths:** German entity backed by one of Europe's largest retail groups, OpenStack-based, managed Kubernetes (SKE), managed databases (PostgreSQL, MariaDB, Redis, RabbitMQ), object storage, strong compliance posture (ISO 27001, C5), GAIA-X aligned. Terraform/OpenTofu provider available. Notably, STACKIT has been contracted by De Nederlandsche Bank (DNB), underscoring its credibility and suitability for highly regulated financial institutions within the EU.
 - **Considerations:** Relatively newer entrant to the public cloud market. The service catalogue is growing but may not yet match the breadth of Scaleway or OVHcloud. Less mature community and ecosystem.
 - **Verdict:** Strong and increasingly credible choice backed by significant investment and validated by adoption in the European financial sector. OpenStack base and German sovereignty credentials make it a serious contender.
 
