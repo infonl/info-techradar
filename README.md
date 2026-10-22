@@ -19,3 +19,13 @@ npm run build
 ```
 Host the application under a sub path
 To host the application under a sub path with Next.js, you'll need to configure the basePath in your config.json. This replaces the previous PUBLIC_URL environment variable approach.
+
+## Release notes
+Every radar version gets a "What's new in Version #N" section at the top of `release-notes.md`, describing what has
+changed since the previous version. The version number is the number shown on the radar home page, which is the
+number of release folders in `radar/`.
+
+The AOE tech radar generator does not support custom pages, so the release notes page is added through a patch on
+`aoe_technology_radar` in `patches/`, applied by [patch-package](https://github.com/ds300/patch-package) on
+`npm install`. When upgrading `aoe_technology_radar`, the patch has to be recreated for the new version:
+`npm install` fails if the patch no longer applies.
