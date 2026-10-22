@@ -70,12 +70,28 @@ index 8f93919..8715f0d 100644
          <li className={styles.item}>
            <Link href="/overview">
              <IconOverview className={styles.icon} />
+diff --git a/node_modules/aoe_technology_radar/src/pages/help-and-about-tech-radar.tsx b/node_modules/aoe_technology_radar/src/pages/help-and-about-tech-radar.tsx
+index 79bf22b..88daa0c 100644
+--- a/node_modules/aoe_technology_radar/src/pages/help-and-about-tech-radar.tsx
++++ b/node_modules/aoe_technology_radar/src/pages/help-and-about-tech-radar.tsx
+@@ -12,7 +12,10 @@ const HelpAndAbout: CustomPage = () => {
+         <title>{formatTitle("Help and About")}</title>
+       </Head>
+ 
+-      <div dangerouslySetInnerHTML={{ __html: about.body }} />
++      <div
++        className="markdown"
++        dangerouslySetInnerHTML={{ __html: about.body }}
++      />
+     </>
+   );
+ };
 diff --git a/node_modules/aoe_technology_radar/src/pages/release-notes.tsx b/node_modules/aoe_technology_radar/src/pages/release-notes.tsx
 new file mode 100644
-index 0000000..6d41110
+index 0000000..328c99b
 --- /dev/null
 +++ b/node_modules/aoe_technology_radar/src/pages/release-notes.tsx
-@@ -0,0 +1,21 @@
+@@ -0,0 +1,24 @@
 +import Head from "next/head";
 +
 +import releaseNotes from "../../data/release-notes.json";
@@ -91,7 +107,10 @@ index 0000000..6d41110
 +        <title>{formatTitle(getLabel("pageReleaseNotes"))}</title>
 +      </Head>
 +
-+      <div dangerouslySetInnerHTML={{ __html: releaseNotes.body }} />
++      <div
++        className="markdown"
++        dangerouslySetInnerHTML={{ __html: releaseNotes.body }}
++      />
 +    </>
 +  );
 +};
