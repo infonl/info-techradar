@@ -1,0 +1,118 @@
+diff --git a/node_modules/aoe_technology_radar/bin/techradar.js b/node_modules/aoe_technology_radar/bin/techradar.js
+index 1406b0d..9301b2a 100755
+--- a/node_modules/aoe_technology_radar/bin/techradar.js
++++ b/node_modules/aoe_technology_radar/bin/techradar.js
+@@ -132,6 +132,12 @@ try {
+     path.join(CWD, "about.md"),
+     path.join(BUILDER_DIR, "data", "about.md"),
+   );
++  if (fs.existsSync(path.join(CWD, "release-notes.md"))) {
++    fs.copyFileSync(
++      path.join(CWD, "release-notes.md"),
++      path.join(BUILDER_DIR, "data", "release-notes.md"),
++    );
++  }
+   fs.copyFileSync(
+     path.join(CWD, "custom.css"),
+     path.join(BUILDER_DIR, "src", "styles", "custom.css"),
+diff --git a/node_modules/aoe_technology_radar/data/config.default.json b/node_modules/aoe_technology_radar/data/config.default.json
+index 7f1c6ae..14c3acb 100644
+--- a/node_modules/aoe_technology_radar/data/config.default.json
++++ b/node_modules/aoe_technology_radar/data/config.default.json
+@@ -132,6 +132,7 @@
+     "notUpdated": "This item was not updated in last three versions of the Radar. Should it have appeared in one of the more recent editions, there is a good chance it remains pertinent. However, if the item dates back further, its relevance may have diminished and our current evaluation could vary. Regrettably, our capacity to consistently revisit items from past Radar editions is limited.",
+     "notFound": "404 - Page not found",
+     "pageAbout": "How to use AOE Technology Radar?",
++    "pageReleaseNotes": "Release Notes",
+     "pageOverview": "Technologies Overview",
+     "pageSearch": "Search",
+     "searchPlaceholder": "What are you looking for?",
+diff --git a/node_modules/aoe_technology_radar/scripts/buildData.ts b/node_modules/aoe_technology_radar/scripts/buildData.ts
+index b61c657..26ff856 100644
+--- a/node_modules/aoe_technology_radar/scripts/buildData.ts
++++ b/node_modules/aoe_technology_radar/scripts/buildData.ts
+@@ -247,3 +247,13 @@ parseDirectory(dataPath("radar")).then((items) => {
+ // write about data to JSON file
+ const about = readMarkdownFile(dataPath("about.md"));
+ fs.writeFileSync(dataPath("about.json"), JSON.stringify(about, null, 2));
++
++// write release notes data to JSON file
++const releaseNotesPath = dataPath("release-notes.md");
++const releaseNotes = fs.existsSync(releaseNotesPath)
++  ? readMarkdownFile(releaseNotesPath)
++  : { id: "release-notes", data: {}, body: "" };
++fs.writeFileSync(
++  dataPath("release-notes.json"),
++  JSON.stringify(releaseNotes, null, 2),
++);
+diff --git a/node_modules/aoe_technology_radar/src/components/Navigation/Navigation.tsx b/node_modules/aoe_technology_radar/src/components/Navigation/Navigation.tsx
+index 8f93919..8715f0d 100644
+--- a/node_modules/aoe_technology_radar/src/components/Navigation/Navigation.tsx
++++ b/node_modules/aoe_technology_radar/src/components/Navigation/Navigation.tsx
+@@ -2,6 +2,7 @@ import Link from "next/link";
+ 
+ import styles from "./Navigation.module.css";
+ 
++import IconEdit from "@/components/Icons/Edit";
+ import IconOverview from "@/components/Icons/Overview";
+ import IconQuestion from "@/components/Icons/Question";
+ import { getLabel } from "@/lib/data";
+@@ -16,6 +17,12 @@ export function Navigation() {
+             <span className={styles.label}>{getLabel("pageAbout")}</span>
+           </Link>
+         </li>
++        <li className={styles.item}>
++          <Link href="/release-notes">
++            <IconEdit className={styles.icon} />
++            <span className={styles.label}>{getLabel("pageReleaseNotes")}</span>
++          </Link>
++        </li>
+         <li className={styles.item}>
+           <Link href="/overview">
+             <IconOverview className={styles.icon} />
+diff --git a/node_modules/aoe_technology_radar/src/pages/help-and-about-tech-radar.tsx b/node_modules/aoe_technology_radar/src/pages/help-and-about-tech-radar.tsx
+index 79bf22b..88daa0c 100644
+--- a/node_modules/aoe_technology_radar/src/pages/help-and-about-tech-radar.tsx
++++ b/node_modules/aoe_technology_radar/src/pages/help-and-about-tech-radar.tsx
+@@ -12,7 +12,10 @@ const HelpAndAbout: CustomPage = () => {
+         <title>{formatTitle("Help and About")}</title>
+       </Head>
+ 
+-      <div dangerouslySetInnerHTML={{ __html: about.body }} />
++      <div
++        className="markdown"
++        dangerouslySetInnerHTML={{ __html: about.body }}
++      />
+     </>
+   );
+ };
+diff --git a/node_modules/aoe_technology_radar/src/pages/release-notes.tsx b/node_modules/aoe_technology_radar/src/pages/release-notes.tsx
+new file mode 100644
+index 0000000..328c99b
+--- /dev/null
++++ b/node_modules/aoe_technology_radar/src/pages/release-notes.tsx
+@@ -0,0 +1,24 @@
++import Head from "next/head";
++
++import releaseNotes from "../../data/release-notes.json";
++
++import { getLabel } from "@/lib/data";
++import { formatTitle } from "@/lib/format";
++import { CustomPage } from "@/pages/_app";
++
++const ReleaseNotes: CustomPage = () => {
++  return (
++    <>
++      <Head>
++        <title>{formatTitle(getLabel("pageReleaseNotes"))}</title>
++      </Head>
++
++      <div
++        className="markdown"
++        dangerouslySetInnerHTML={{ __html: releaseNotes.body }}
++      />
++    </>
++  );
++};
++
++export default ReleaseNotes;
