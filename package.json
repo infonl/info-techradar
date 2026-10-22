@@ -5,7 +5,8 @@
     "license": "Creative Commons Attribution-NonCommercial-ShareAlike",
     "scripts": {
         "build": "techradar build",
-        "serve": "nodemon"
+        "serve": "nodemon",
+        "postinstall": "patch-package"
     },
     "dependencies": {
         "aoe_technology_radar": "4.4.0"
@@ -23,6 +24,7 @@
         ]
     },
     "devDependencies": {
-        "nodemon": "^3.1.9"
+        "nodemon": "^3.1.9",
+        "patch-package": "^8.0.1"
     }
 }
